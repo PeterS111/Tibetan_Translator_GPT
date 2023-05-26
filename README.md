@@ -28,4 +28,4 @@ Both are uploaded in the original .txt version and converted into .jsonl fromat 
 
 ### Collaboration
 
-If you are interested in  collaborating on this project please contact me. PeterS.
+If you are interested in  collaborating on this project please contact me on P.Sawicki@kent.ac.uk.
