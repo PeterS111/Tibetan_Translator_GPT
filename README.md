@@ -4,7 +4,7 @@ version: 2023.05.26
 
 author: PeterS
 
-This repository is dedicate to the development of Tibetan translation machine through fine-tuning of GPT models.
+This repository is dedicated to the development of Tibetan translation machine through fine-tuning of GPT models.
 
 ### Samples
 
