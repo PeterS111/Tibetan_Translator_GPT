@@ -19,7 +19,7 @@ Samples are presented both as .txt and .html files.
 
 ### Datasets
 
-Datasets folder contain datasets of Tibetan-English text as scraped from https://www.lotsawahouse.org/ with some edits by Peter. There are two datasets: tib_small and tib_long.
+Datasets folder contain datasets of Tibetan-English text as scraped from https://www.lotsawahouse.org/ with some edits by PeterS. There are two datasets: tib_small and tib_long.
 Both are uploaded in the original .txt version and converted into .jsonl fromat for GPT-3 fine-tuning.
 
 ### Updates
