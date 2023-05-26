@@ -24,7 +24,7 @@ Both are uploaded in the original .txt version and converted into .jsonl fromat 
 
 ### Updates
 
-2023.05.26  -  Version 2 of our system already outperforms GPT-4 in Tibetan-to-English translation, despite being a much smaller model. The problem we are facing now is that line-by-line text in our dataset is in many places not matching, also, English translations in many places are adding words that do not appear in Tibetan text. While for the human reader it does not matter, for machine learning this presents a problem. Currently, we are working on improving the dataset. Expect the upadate soon.
+2023.05.26  -  Version 2 of our system already outperforms GPT-4 in Tibetan-to-English translation, despite being a much smaller model, however the quality of translations is still not satisfactory. The problem we are facing now is that line-by-line text in our dataset is in many places not matching, also, English translations in many places are adding words that do not appear in Tibetan text. While for the human reader it does not matter, for machine learning this presents a problem. Currently, we are working on improving the dataset. Expect the upadate soon.
 
 ### Collaboration
 
