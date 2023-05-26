@@ -1,0 +1,115 @@
+
+
+TIBETAN:༄༅།།དཔལ་ཨོ་རྒྱན་ཆོས་ཀྱི་རྒྱལ་པོ་ལ་གསོལ་འདེབས་བསམ་དོན་མྱུར་འགྲུབ་ཅེས་བྱ་བ།
+HUMAN: The Swift Fulfilment of Aspirations, A Prayer to Glorious Orgyen, King of Dharma
+
+GPT-FT v1: The Swiftness of the Glorious Dharma, A Prayer to the Abbot of Orgyen
+GPT-FT v2: The Swift Fulfilment of Wishes, A Prayer to Orgyen Gyatso, King of the Dharma
+
+TIBETAN:ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ།
+HUMAN: oṃ āḥ hūṃ vajra guru padma siddhi hūṃ
+
+GPT-FT v1: oṃ āḥ hūṃ vajra guru padma siddhi hūṃ
+GPT-FT v2: oṃ āḥ hūṃ vajra guru padma siddhi hūṃ
+
+TIBETAN:ཕྱོགས་དུས་རྩ་གསུམ་རྒྱལ་བ་རྒྱ་མཚོའི་ཚོགས།།
+HUMAN: Precious One of Oḍḍiyāna, you who are the sole embodiment
+
+GPT-FT v1: All the hosts of deities of the three times, victorious ones of the three roots,
+GPT-FT v2: The hosts of victorious ones of the three times,
+
+TIBETAN:མ་ལུས་གཅིག་བསྡུས་ཨོ་རྒྱན་རིན་པོ་ཆེ།།
+HUMAN: Of all the infinite victorious ones and Three Root throughout space and time,
+
+GPT-FT v1: Urgyen, precious one who carries the name of Orgyen,
+GPT-FT v2: One and only precious guru, Orgyen Rinpoche,
+
+TIBETAN:རྔ་ཡབ་པདྨ་འོད་ནས་ཐུགས་རྗེས་གཟིགས།།
+HUMAN: Look upon me with compassion from Lotus Light in Cāmara.
+
+GPT-FT v1: And with the compassion of the Lotus-born, you look on us with your eyes of compassion—
+GPT-FT v2: Look upon me from the Lotus Light Palace in Tibet,
+
+TIBETAN:གསོལ་བ་སྙིང་ནས་འདེབས་སོ་བྱིན་གྱིས་རློབས།།
+HUMAN: I pray to you from the depths of my heart: inspire me with your blessings!
+
+GPT-FT v1: I pray to you from the depths of my heart: inspire me with your blessings!
+GPT-FT v2: I pray from the depths of my heart: inspire me with your blessings!
+
+TIBETAN:རྐྱེན་ངན་བྱང་ཆུབ་ལམ་དུ་བསྒྱུར་བ་དང་།།
+HUMAN: Transform all negative circumstances into the path of awakening,
+
+GPT-FT v1: May I be able to carry out the enlightened activity of the Great Compassionate One
+GPT-FT v2: Cause me to be reborn in a country where there are no obstacles,
+
+TIBETAN:དམ་ཆོས་སྒྲུབ་པའི་བར་ཆད་ཀུན་ཞི་ཞིང་།།
+HUMAN: Pacify all obstacles to the accomplishment of sacred Dharma,
+
+GPT-FT v1: May all obstacles to the Dharma be pacified,
+GPT-FT v2: Pacify all obstacles to the accomplishment of the sacred Dharma,
+
+TIBETAN:ཚེ་བསོད་དཔལ་འབྱོར་ལུང་རྟོགས་ཡོན་ཏན་དང་།།
+HUMAN: Increase longevity, merit, resources, learning and realization,
+
+GPT-FT v1: May I enjoy the splendour of the excellent qualities of the noble ones
+GPT-FT v2: Grant your blessings so that we may realize the riches of longevity, merit and wisdom,
+
+TIBETAN:ཡེ་ཤེས་རིག་པའི་རྩལ་ཆེན་སྤར་དུ་གསོལ།།
+HUMAN: And activate the great strength of awareness wisdom, I pray.
+
+GPT-FT v1: May your wisdom remain as great as the sky, I pray.
+GPT-FT v2: And let the great power of awareness-wisdom be unleashed!
+
+TIBETAN:ཤེས་རབ་ཟབ་མོའི་སྒོ་ཆེན་འབྱེད་པ་དང་།།
+HUMAN: Cast open the great doors to ever deeper levels of insight,
+
+GPT-FT v1: May I see the great light of the profound and vast wisdom
+GPT-FT v2: Through the great gateway of profound wisdom,
+
+TIBETAN:སྤོབས་པའི་གཏེར་ཆེན་བརྒྱད་ལ་དབང་འབྱོར་ཞིང་།།
+HUMAN: Let us obtain the eight great treasures of courageous eloquence,
+
+GPT-FT v1: May the eight great treasure revealers of the treasury of the teachings
+GPT-FT v2: May I gain the eight great treasures of courage and confidence,
+
+TIBETAN:རིས་མེད་ཐོས་བསམ་སྒོམ་པའི་པད་ཚལ་རྒྱས།།
+HUMAN: Expand the lotus garden of unbiased study, reflection and meditation,
+
+GPT-FT v1: The teachings of the non-sectarian tantras flourish,
+GPT-FT v2: And the lotus of non-sectarian study and meditation flourished.
+
+TIBETAN:ཟབ་དོན་སྦྲང་རྩིའི་བཅུད་ཀྱིས་ཕྱུག་པར་ཤོག།
+HUMAN: And make us rich with the honeyed nectar of profound meaning.
+
+GPT-FT v1: And may the ten powers of the profound, secret essence of the universe be fully perfected.
+GPT-FT v2: And may I be reborn in the essence of the profound meaning.
+
+TIBETAN:མདོར་ན་བདག་གཞན་སེམས་ཅན་ཐམས་ཅད་ཀྱི།།
+HUMAN: In short, let all my own and others’ aspirations and actions
+
+GPT-FT v1: And may all sentient beings, in all their lives,
+GPT-FT v2: In short, may all beings, my own parents,
+
+TIBETAN:ཆོས་མཐུན་བསམ་སྦྱོར་སྐད་ཅིག་ཙམ་སྐྱེས་ཀྱང་།།
+HUMAN: That accord with the Dharma, even those that are but fleeting,
+
+GPT-FT v1: But, if the Dharma is contaminated, we are tormented by illness, poverty, and misfortune.
+GPT-FT v2: May the Dharma be just and the circumstances be favourable,
+
+TIBETAN:དེ་ཡི་མོད་ལ་མྱུར་དུ་འགྲུབ་པ་དང་།།
+HUMAN: All be fulfilled immediately, in the very instant of their creation,
+
+GPT-FT v1: May I swiftly accomplish the benefit of others,
+GPT-FT v2: May I swiftly accomplish the aim of this practice,
+
+TIBETAN:བར་ཆད་ཞི་ཞིང་བདུད་ལས་རྒྱལ་གྱུར་ཅིག།
+HUMAN: And pacify obstacles, so that we may gain victory over Māra!
+
+GPT-FT v1: May the obstacles be pacified and may the victory of victory of victory!
+GPT-FT v2: May the victorious ones pacify all obstacles!
+
+TIBETAN:ཅེས་པའང་རང་གི་བསྙེལ་གསོས་ཙམ་དུ་ཆོས་ཀྱི་བློ་གྲོས་པས་རྩེ་གཅིག་གུས་པས་གསོལ་བ་བཏབ་པ་སིདྡྷི་རསྟུ།།།།
+HUMAN: Merely to refresh his own memory, Chökyi Lodrö offered this prayer with single-pointed devotion. Siddhirastu!
+
+GPT-FT v1: Chökyi Lodrö offered this prayer in the presence of the master and disciples on the twenty-fifth day of the fifth month of the Iron Ox year (1905).
+GPT-FT v2: Chökyi Lodrö offered this prayer in a single-pointed way. Siddhirastu!
