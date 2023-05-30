@@ -1,0 +1,90 @@
+
+
+TIBETAN:༄༅།།འཇམ་དཔལ་བསྟོད་པ་བྱིན་རླབས་གཏེར་ཆེན་བཞུགས་སོ།།
+HUMAN: The Great Treasure of Blessings, In Praise of Mañjuśrī
+
+GPT-FT v1: The Great Blessing, A Prayer to the Wisdom Mind of Jamyang Khyentse Wangpo
+GPT-FT v2: Praise of the Great Treasure of Mañjuśrī
+
+TIBETAN:ཨོཾ།སྐུ་མཆོག་འཇམ་དཔལ་གཞོན་ནུར་ཕྱག་འཚལ་ལོ།།
+HUMAN: Oṃ. Supreme wisdom body, youthful Mañjuśrī, to you I prostrate.
+
+GPT-FT v1: Oṃ. Supremely glorious Mañjuśrīmitra, to you I pay homage!
+GPT-FT v2: Oṃ. Glorious Mañjuśrī, supreme body, youthful, and resplendent: homage to you!
+
+TIBETAN:འཇམ་དབྱངས་གསུང་དབང་ཕྱུག་ལ་ཕྱག་འཚལ་ལོ།།
+HUMAN: Powerful lord of gentle and melodious speech, to you I prostrate.
+
+GPT-FT v1: Homage to you, Mañjughoṣa, who holds the secret of the essence of the three secrets!
+GPT-FT v2: To the Mañjughoṣa who possesses speech, I pay homage!
+
+TIBETAN:མཁྱེན་རབ་ཡེ་ཤེས་སེམས་དཔར་ཕྱག་འཚལ་ལོ།།
+HUMAN: Wisdom being, with a mind of perfect knowledge, to you I prostrate.
+
+GPT-FT v1: Homage to you, who, with your wisdom mind, is the Lord of the World!
+GPT-FT v2: Homage to the omniscient Wisdom Mind!
+
+TIBETAN:རྒྱལ་ཀུན་ཡེ་ཤེས་རྟེན་འབྲེལ་ཕྱག་འཚལ་ལོ།།
+HUMAN: Auspicious coincidence of all the buddhas' wisdom, to you I prostrate.
+
+GPT-FT v1: Homage to you, the wisdom mind of all the victorious buddhas!
+GPT-FT v2: Homage to the Buddha, Dharma and Saṅgha.
+
+TIBETAN:ཡེ་ཤེས་རལ་གྲི་འཛིན་ལ་ཕྱག་འཚལ་ལོ།།
+HUMAN: Wielder of the sword of wisdom, to you I prostrate.
+
+GPT-FT v1: Homage to you, who, like a sun-like emanation,
+GPT-FT v2: To you, the holder of the sword of wisdom, I pay homage!
+
+TIBETAN:ཐབས་ཀྱི་ཨུཏྤལ་བསྣམས་ལ་ཕྱག་འཚལ་ལོ།།
+HUMAN: Holder of the lotus of skilful means, to you I prostrate.
+
+GPT-FT v1: To the noble Ārya Kālacakra, I pay homage!
+GPT-FT v2: And holds an utpala flower: homage to you![Chapter 51]
+
+TIBETAN:ཤེས་རབ་མདའ་རྣོན་འཕེན་ལ་ཕྱག་འཚལ་ལོ།།
+HUMAN: Shooter of the piercing arrow of knowledge, to you I prostrate.
+
+GPT-FT v1: Homage to you, who, like a sun-like guide, leads the wise to the right path!
+GPT-FT v2: To you, the holder of the sword of wisdom, I pay homage!
+
+TIBETAN:སྙིང་རྗེའི་གཞུ་ཆེན་འཆང་ལ་ཕྱག་འཚལ་ལོ།།
+HUMAN: Drawer of the great bow of compassion, to you I prostrate.
+
+GPT-FT v1: Homage to you, who, in the great and noble land of Tibet,
+GPT-FT v2: And the great compassionate lord, the great central point of the universe: homage to you![Chapter 51]
+
+TIBETAN:བདག་གིས་མགོན་པོ་འཇམ་དབྱངས་ཁྱོད་དྲན་ཏེ།།
+HUMAN: By remembering you, my lord and protector Mañjughoṣa,
+
+GPT-FT v1: I remember your kindness, Mañjuśrī, and your compassion,
+GPT-FT v2: I am the protector Mañjughoṣa,
+
+TIBETAN:གུས་པས་སྙིང་ནས་གསོལ་བ་འདེབས་ལགས་ན།།
+HUMAN: And praying with devotion from the depths of my heart,
+
+GPT-FT v1: I pray to you from the depths of my heart:
+GPT-FT v2: And with devotion and prayer, I pray to you:
+
+TIBETAN:ཐུགས་དམ་ཆེན་པོས་ཉེ་བར་རྗེས་བཟུངས་ནས།།
+HUMAN: Guide me and care for me in your great wisdom,
+
+GPT-FT v1: And the great compassionate one, the great compassionate one,
+GPT-FT v2: May you be cared for by the Great Compassionate One,
+
+TIBETAN:སྤོབས་པའི་གཏེར་བརྒྱད་གྲོལ་བར་མཛད་དུ་གསོལ།།
+HUMAN: And cause the eight great treasures of my courageous eloquence to be released, I pray.
+
+GPT-FT v1: And may the eight treasures of the treasury of the teachings be liberated for evermore.
+GPT-FT v2: And liberate all the beings of the eight directions.
+
+TIBETAN:ཨོཾ་ཨ་ར་པ་ཙ་ན་དྷཱིཿཧཱུྃ།
+HUMAN: oṃ arapacana dhīḥ hūṃ
+
+GPT-FT v1: oṃ arapacana dhīḥ
+GPT-FT v2: oṃ arapacana dhīḥ hūṃ
+
+TIBETAN:ཞེས་པའང་ལྕགས་སྦྲུལ་ཟླ་བ་དགུ་པའི་ཚེས་ཉི་མའི་གྲངས་ཟིལ་གནོན་ཆེན་པོའི་བསྙེན་སྒྲུབ་ལ་གནས་པའི་ཐུན་སྐབས་ཤིག་ཏུ་དྷཱིཿམིང་པས་སྤེལ་བ་དགེ།
+HUMAN: Written by the one called Dhīḥ during a session in a retreat focused upon the great and glorious subjugator, on the first day of the ninth month of the Iron Snake year (1881). May virtue abound!
+GPT-FT v1: Thus, in response to a request from the great tulku of the Nyingma lineage, the great tulku of the Kagyüs, and the tulku of the great tulku of the Dzongsar, the great tulku of the Nyingma, the great tulku of the Kagyüs, and the tulku of the great tulku of the Dzongsar, the great tulku of the Nying
+GPT-FT v2: On the ninth day of the ninth month of the Iron Horse year, while I was in the cave of the Great Lion at the foot of the mountain of Lhundrup,

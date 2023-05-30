@@ -1,0 +1,204 @@
+
+
+TIBETAN:༄༅།།མཁན་ཆེན་གསོལ་འདེབས་བྱང་ཆུབ་ལྗོན་ཤིང་ཞེས་བྱ་བ།
+HUMAN: The Tree of Awakening, A Prayer to the Great Abbot Śāntarakṣita
+
+GPT-FT v1: Prayer to Khenchen Lodrö
+GPT-FT v2: The Song of the Great Sage, A Prayer to the Great Khenchen Chokgyur Lingpa
+
+TIBETAN:མགོན་པོ་འཇམ་པའི་དབྱངས་ལ་གུས་པས་ཕྱག་འཚལ་ལོ།།
+HUMAN: In devotion, I pay homage to the protector Mañjughoṣa!
+
+GPT-FT v1: Homage to you, protector Mañjughoṣa!
+GPT-FT v2: To the protector Mañjughoṣa, I pay homage!
+
+TIBETAN:རྒྱལ་རིགས་སཱ་ལ་ལྟ་བུའི་རྒྱུད་འཁྲུངས་ཤིང་།།
+HUMAN: Born into the sāla-like lineage of the kṣatriyas,
+
+GPT-FT v1: May the wisdom mind of the victorious ones and their heirs
+GPT-FT v2: You were born into the royal family of the Sakya,
+
+TIBETAN:རིག་པའི་གནས་ལྔ་མཐར་ཕྱིན་འཇམ་དབྱངས་ཀྱི།།
+HUMAN: You mastered the five sciences and honoured Mañjughoṣa,
+
+GPT-FT v1: And the five buddha families,
+GPT-FT v2: May the five families of the maṇḍala of the Lord of Siddhas
+
+TIBETAN:ཞབས་ཀྱི་པདྨོའི་ཟེའུ་འབྲུ་སྤྱི་བོས་བསྟེན།།
+HUMAN: Offering the crown of your head for his lotus feet—
+
+GPT-FT v1: Pema Gyalpo,
+GPT-FT v2: With your lotus feet you tread the lotus of the teachings of the lotus-born,
+
+TIBETAN:མཁན་ཆེན་བྱང་ཆུབ་སེམས་དཔར་གསོལ་བ་འདེབས།།
+HUMAN: Great bodhisattva abbot, to you I pray.
+
+GPT-FT v1: Khenchen Jigme Lingpa, to you I pray!
+GPT-FT v2: Great Abbot, to you I pray!
+
+TIBETAN:བསྐལ་མང་གོང་ནས་གཞན་ཕན་ཐུགས་བསྐྱེད་ཀྱི།།
+HUMAN: With your altruistic resolve formed many aeons ago
+
+GPT-FT v1: And may I always act in accordance with the wishes
+GPT-FT v2: May the aspirations of the bodhisattvas of the future,
+
+TIBETAN:རྩ་བ་གསེར་སྦྲམ་ལྟ་བུ་རབ་བརྟན་པས།།
+HUMAN: As an utterly stable foundation like finest gold,
+
+GPT-FT v1: And the sound of the syllable Hūṃ resounds throughout the world,
+GPT-FT v2: And the seeds of the golden age are sown,
+
+TIBETAN:རྩོད་དུས་བསྟན་དང་འགྲོ་བའི་གཉེན་གཅིག་པུ།།
+HUMAN: You are the sole ally of the teachings and beings in this age of turmoil—
+
+GPT-FT v1: And the teachings of the Ancient Translations,
+GPT-FT v2: And single-mindedly uphold the teachings and beings in this world,
+
+TIBETAN:མཁན་ཆེན་ཞི་བ་འཚོ་ལ་གསོལ་བ་འདེབས།།
+HUMAN: Great abbot Śāntarakṣita, to you I pray.
+
+GPT-FT v1: Khenchen Jigme Lingpa, to you I pray.
+GPT-FT v2: Great paṇḍita Śāntarakṣita, to you I pray.
+
+TIBETAN:སངས་རྒྱས་བསྟན་ལ་འཁུ་བའི་མུ་སྟེགས་ཀྱི།།
+HUMAN: Like a mighty skull-crushing vajra elephant, you defeated
+
+GPT-FT v1: And the sun of the teachings of Buddha,
+GPT-FT v2: May the darkness of the teachings of the Buddha be dispelled,
+
+TIBETAN:གླང་ཆེན་གཙུག་འགེམ་དབང་པོའི་རྡོ་རྗེ་ལྟར།།
+HUMAN: The tīrthikas who were hostile to the teachings of the Buddha
+
+GPT-FT v1: And the great vajra-holder, the lord of the maṇḍala,
+GPT-FT v2: Like the mighty lord of speech, the mighty lord of power,
+
+TIBETAN:སྒྲ་ཚད་དབུ་མའི་རིགས་པས་བཅོམ་མཛད་པའི།།
+HUMAN: In grammar and logic and through Middle Way reasoning —
+
+GPT-FT v1: And the power of the profound and secret instructions of the noble ones
+GPT-FT v2: And the speech of the Tibetans, who are the guardians of the Dharma,
+
+TIBETAN:སྨྲ་བའི་སེངྒེ་ཆེན་པོར་གསོལ་བ་འདེབས།།
+HUMAN: Great lion of speech, to you I pray.
+
+GPT-FT v1: Great lion of the Land of Snows, to you I pray.
+GPT-FT v2: Great lion among speech-based beings, to you I pray.
+
+TIBETAN:ཆོས་འདུལ་གསེར་གྱི་རི་བོར་རྟེན་བཅས་ཤིང་།།
+HUMAN: Upon the foundation of Vinaya teachings, like a golden mountain,
+
+GPT-FT v1: And the sacred Dharma of the Sakya, Sakya and Sakya-like,
+GPT-FT v2: You were born in a golden palace, and you were taught by the Dharma King,
+
+TIBETAN:ཟབ་ཅིང་རྒྱ་ཆེའི་མདོ་སྡེའི་དོན་རབ་གསལ།།
+HUMAN: You fully elucidated the meaning of the Sūtras, profound and vast,
+
+GPT-FT v1: And the profound and secret instructions of the profound and secret tantras,
+GPT-FT v2: And the profound meaning of the teachings clearly to behold.
+
+TIBETAN:ཆོས་མངོན་རྒྱ་མཚོའི་སྤྱན་སྟོང་རྣམ་པར་བཀྲ།།
+HUMAN: And beheld the ocean-like Abhidharma as if with a thousand eyes—
+
+GPT-FT v1: And the oceanic teachings of the Dharma.
+GPT-FT v2: And the presence of the oceanic wisdom of the dharmapālas.
+
+TIBETAN:མཁན་ཆེན་ལྷ་ཡི་བླ་མར་གསོལ་བ་འདེབས།།
+HUMAN: Great abbot, guru to the gods, to you I pray.
+
+GPT-FT v1: Great and noble guru, to you I pray.
+GPT-FT v2: Great lama, to you I pray.
+
+TIBETAN:ཚུལ་ཁྲིམས་དྲི་ཡིས་ལྷར་བཅས་འགྲོ་རྣམས་དགའ།།
+HUMAN: The sweet scent of your discipline delighted all including the devas,
+
+GPT-FT v1: The six classes of monks and their retinues,
+GPT-FT v2: With the scent of the finest scents,
+
+TIBETAN:ཏིང་འཛིན་ཟབ་མོས་ཟག་མེད་ཡོན་ཏན་སྡུད།།
+HUMAN: Your profound meditative absorption brought undefiled qualities,
+
+GPT-FT v1: May I be free from the sufferings of the profound path of union and liberation,
+GPT-FT v2: And the profound samādhi of the vidyādhara Vimalamitra,
+
+TIBETAN:ཤེས་རབ་སྤོབས་པས་ཆོས་ཀྱི་སྒོ་བརྒྱ་འབྱེད།།
+HUMAN: And your wisdom and courageous eloquence opened a hundred Dharma doors—
+
+GPT-FT v1: With your wisdom, you mastered the eight kinds of knowledge.
+GPT-FT v2: And the eight doors of Dharma are opened with the strength of wisdom.
+
+TIBETAN:འཛམ་གླིང་ཐུབ་དབང་གཉིས་པར་གསོལ་བ་འདེབས།།
+HUMAN: Second lord of sages for this world of Jambudvīpa, to you I pray.
+
+GPT-FT v1: To the one and only Lord of Sages, I pray!
+GPT-FT v2: To you, the two mighty sages, I pray!
+
+TIBETAN:བྱང་ཕྱོགས་གངས་རིའི་ཕྲེང་བས་བསྐོར་བའི་ལྗོངས།།
+HUMAN: You brought the chariot of the teachings of the Śākya Lion
+
+GPT-FT v1: In the midst of a vast, flower-like garden of the six classes of tantra,
+GPT-FT v2: The great chariot of the Abhidharma, the wheel of the teachings of the Land of Snows,
+
+TIBETAN:ཤཱཀྱ་སེངྒེའི་བསྟན་པའི་ཤིང་རྟ་འདྲེན།།
+HUMAN: To this northern land encircled by a chain of snowy peaks,
+
+GPT-FT v1: Sangyé Yeshé,
+GPT-FT v2: You are the guide who leads the teachings of the Sūtra and Mahāyāna,
+
+TIBETAN:སྡེ་སྣོད་གསུམ་ལ་ཅི་དགར་ལོངས་སྤྱོད་པའི།།
+HUMAN: So that we may readily avail ourselves of the Three Piṭakas—
+
+GPT-FT v1: And the whole of the world, the very essence of the Three Roots,
+GPT-FT v2: And may the three worlds of Tibet enjoy the joys of goodness,
+
+TIBETAN:བཀའ་དྲིན་མཉམ་མེད་རྗེ་ལ་གསོལ་བ་འདེབས།།
+HUMAN: Lord of unparalleled kindness, to you I pray.
+
+GPT-FT v1: To you, who are one and inseparable from the noble lord, I pray!
+GPT-FT v2: To you, who are of one mind, I pray!
+
+TIBETAN:རྒྱལ་བས་ལུང་གིས་བསྟན་པའི་མཁན་པོ་ནི།།
+HUMAN: To the abbot prophesied by the victorious buddha,
+
+GPT-FT v1: And the learned and accomplished Gyalwa Lodrö
+GPT-FT v2: You who are the embodiment of the Buddha’s teachings,
+
+TIBETAN:བྷོ་དྷི་སཏྭ་ཤཱནྟ་རཀྵི་ཏ།།
+HUMAN: Bodhisattva Śāntarakṣita,
+
+GPT-FT v1: Vajra-deity, Śrī Siṃha,
+GPT-FT v2: Bhyoḥ! In the language of Tibet: rakṣa rakṣa
+
+TIBETAN:ཐམས་ཅད་མཁྱེན་དངོས་སྟོན་པའི་རྒྱལ་ཚབ་ཆེར།།
+HUMAN: Omniscient in actuality, great regent of the Teacher,
+
+GPT-FT v1: Great teacher of the teachings of the Ancient Translations,
+GPT-FT v2: You are the great king of all the buddhas,
+
+TIBETAN:དད་མོས་རྩེ་གཅིག་གུས་པས་གསོལ་བ་འདེབས།།
+HUMAN: With single-pointed faith and devotion, I pray.
+
+GPT-FT v1: With one-pointed mind, I pray to you from the depths of my heart.
+GPT-FT v2: With one-pointed devotion, I pray to you from the depths of my heart:
+
+TIBETAN:ཁ་ཙམ་མ་ཡིན་སྙིང་ནས་གསོལ་འདེབས་ན།།
+HUMAN: As I pray to you—not with empty mouthing but from the depths of my heart,
+
+GPT-FT v1: From the depths of my heart, I pray to you:
+GPT-FT v2: If I pray to you, without any doubt,
+
+TIBETAN:བསྟན་པ་རིན་ཆེན་ཕྱོགས་བཅུར་འཕེལ་བ་དང་།།
+HUMAN: Grant your blessings so that the precious teachings spread in all directions,
+
+GPT-FT v1: May the precious teachings of the precious one who holds the teachings of the ten directions flourish and spread,
+GPT-FT v2: May the precious teachings of the Buddha flourish in all directions,
+
+TIBETAN:ཚུལ་ལྡན་འདུས་པ་རྒྱ་མཚོས་ཡོངས་གང་ཞིང་།།
+HUMAN: Everywhere is flooded with ocean-like communities of the ethical,
+
+GPT-FT v1: May I be able to tame the ocean of sentient beings
+GPT-FT v2: May the entire world be filled with an ocean of your disciples,
+
+TIBETAN:སྒོ་གསུམ་རྣམ་པར་དག་པར་བྱིན་གྱིས་རློབས།།།།
+HUMAN: And my three doors of body, speech and mind are made utterly pure.
+GPT-FT v1: Inspire me to develop the three trainings of the three doors.
+GPT-FT v2: Inspire me to purify my three doors.

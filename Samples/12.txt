@@ -1,0 +1,114 @@
+
+
+TIBETAN:༄༅།།ཚར་ཆེན་གྱི་མཛད་པའི་གསུང་ངག་བརྒྱུད་འདེབས་ཞལ་སྐོང་།
+HUMAN: Supplement to the Lineage Prayer for the Lamdré Instructions Composed by Tsarchen
+
+GPT-FT v1: Prayer to the Lineage of the Great Perfection
+GPT-FT v2: Prayer for the Long Life of the Great Tārā
+
+TIBETAN:རྣམ་གྲོལ་བྱང་ཆུབ་ཆེན་པོའི་དབེན་གནས་སུ།།
+HUMAN: In the hermitage of Great Liberation and Awakening,
+
+GPT-FT v1: And the great liberator, the bodhisattva Ngawang Lekpa,
+GPT-FT v2: In the forest of great liberative conduct,
+
+TIBETAN:གསང་ཆེན་སློབ་བཤད་བསྟན་པའི་བང་མཛོད་འཛིན།།
+HUMAN: You hold the treasury of the great secret Private Instructions,
+
+GPT-FT v1: And the great master, who reveals the treasury of the teachings,
+GPT-FT v2: And reveal the treasury of the teachings of the great secret.
+
+TIBETAN:མཁས་ཤིང་གྲུབ་བརྙེས་ཐར་རྩེ་རྡོ་རྗེ་འཆང་།།
+HUMAN: Learned and accomplished Vajradhara of Thartse,
+
+GPT-FT v1: Khyentse Wangpo, who accomplished the siddhis of learning and accomplishment,
+GPT-FT v2: You were taught by the learned and accomplished Dorje Drolö,
+
+TIBETAN:བསྟན་པའི་རྒྱལ་མཚན་ཞབས་ལ་གསོལ་བ་འདེབས།།
+HUMAN: Tenpai Gyaltsen,
+
+GPT-FT v1: To the sovereign of the teachings of the Buddha, I pray!
+GPT-FT v2: Tenzin Gyatso,
+
+TIBETAN:ཨེ་ཝྃ་ཆོས་འཁོར་རྩེ་ཡི་བླ་བྲང་དུ།།
+HUMAN: In the uppermost residence of Ewaṃ Chökhor,
+
+GPT-FT v1: At the feet of the noble Ācārya Anuśānti,
+GPT-FT v2: In the Guru’s heart-centre, upon a wheel of Dharma,
+
+TIBETAN:འཇམ་དབྱངས་བླ་མའི་ཐུགས་སྲས་མཆོག་གྱུར་པ།།
+HUMAN: You are the supreme heart-son of the Mañjughoṣa guru,
+
+GPT-FT v1: Supremely compassionate guru, you are my only refuge,
+GPT-FT v2: Supreme father, the foremost of all the Mañjughoṣas,
+
+TIBETAN:བཤད་དང་བསྒྲུབ་པའི་དཔལ་ལ་དབང་འབྱོར་བ།།
+HUMAN: With mastery of the splendours of teaching and practice,
+
+GPT-FT v1: And the glorious Sakya tradition of study and practice,
+GPT-FT v2: And may we gain the splendour of teaching and practice,
+
+TIBETAN:རིན་ཆེན་རྡོ་རྗེའི་ཞབས་ལ་གསོལ་བ་འདེབས།།
+HUMAN: Richen Dorje,
+
+GPT-FT v1: Rinchen Zangpo, at your feet I pray!
+GPT-FT v2: Rigdzin Rabsel Dorje, at your feet I pray.
+
+TIBETAN:འདི་ཡན་ལེགས་པ་རིན་པོ་ཆེས་མཛད།།
+HUMAN: These verses were composed by Lekpa Rinpoche.
+
+GPT-FT v1: And the precious text of the Great Perfection,
+GPT-FT v2: You who are skilled in the excellent,
+
+TIBETAN:དགའ་ལྡན་ས་བཟང་ཆོས་ཀྱི་ཕོ་བྲང་དུ།།
+HUMAN: In the dharma palace of Ganden Sabzang,
+
+GPT-FT v1: In the palace of Dharma, in the charnel ground of the Great Stūpa,
+GPT-FT v2: In the Dharma Palace of the excellent, pure and blissful expanse,
+
+TIBETAN:དུས་གསུམ་རྒྱལ་བ་མ་ལུས་འདུས་པའི་དངོས།།
+HUMAN: You are the embodiment of all the victorious ones of the three times,
+
+GPT-FT v1: The essence of the buddhas of past, present and future,
+GPT-FT v2: Embodiment of all the victorious ones of the three times,
+
+TIBETAN:འཇམ་དབྱངས་བླ་མ་སྒ་སྟོན་རྡོ་རྗེ་འཆང་།།
+HUMAN: Mañjughoṣa guru, Gatön Dorje Chang,
+
+GPT-FT v1: Mañjughoṣa guru, Vajradhara,
+GPT-FT v2: Mañjughoṣa guru, Vajradhara,
+
+TIBETAN:ངག་དབང་ལེགས་པའི་ཞབས་ལ་གསོལ་བ་འདེབས།།
+HUMAN: Ngawang Lekpa,
+
+GPT-FT v1: To the one and only Tsogyal, we pray!
+GPT-FT v2: Ngawang Samten, at your feet I pray!
+
+TIBETAN:རིས་མེད་མཁས་གྲུབ་འདུ་བའི་སྨན་ལྗོངས་སུ།།
+HUMAN: In the medicinal valley where non-sectarian scholars and adepts gather,
+
+GPT-FT v1: And the supreme and secret siddhis of the learned and accomplished,
+GPT-FT v2: And the medicinal, non-sectarian teachings of the Great Vehicle,
+
+TIBETAN:ཟབ་རྒྱས་མདོ་སྔགས་ཆོས༵་ཀྱི༵་མཛོད་འཛིན་པ།།
+HUMAN: You the holder of the profound and vast Dharma-treasury of sūtra and mantra,
+
+GPT-FT v1: And the Dharma of the profound, secret, and vast—
+GPT-FT v2: And holder of the treasury of the profound and vast Dharma of the Sakya tradition—
+
+TIBETAN:བློ༵་གྲོས༵་མཚུངས་མེད་མཐའ་ཀླས་གདུལ་བྱའི་ངོར།།
+HUMAN: With incomparable intellect and attending to limitless disciples,
+
+GPT-FT v1: You were born into the family of the supremely secret and inimitable lama,
+GPT-FT v2: You are the one who is without equal in the world of Tibet—
+
+TIBETAN:དཔལ་ལྡན་བླ་མའི་ཞབས་ལ་གསོལ་བ་འདེབས།།
+HUMAN: Glorious guru,
+
+GPT-FT v1: Glorious guru, at your feet I pray.
+GPT-FT v2: Glorious guru, at your feet I pray.
+
+TIBETAN:ཤྭ་ལོ་ཀ་འདི་གཉིས་ཤིང་རྟ་ལོར་ས་སྐྱ་པ་ཡབ་སྲས་སློབ་བཤད་ཕུལ་སྐབས་སྡེ་གཞུང་མཆོག་སྤྲུལ་རིན་པོ་ཆེའི་བཞེད་ངོར་ཆོས་ཀྱི་བློ་གྲོས་པས་སོ།།།།
+HUMAN: Chökyi Lodrö wrote these two verses in the Wood Horse year,
+GPT-FT v1: Chökyi Lodrö offered this prayer in response to the request of the two-thousand-year-old Lama Chökyi Lodrö.
+GPT-FT v2: This was composed by Chökyi Lodrö in response to a request from the son of the second dzogchen, Ngawang Chökyi Lodrö.

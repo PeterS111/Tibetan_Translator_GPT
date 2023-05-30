@@ -1,0 +1,246 @@
+
+
+TIBETAN:༄༅།།སྤྱན་རས་གཟིགས་ཡི་གེ་དྲུག་པའི་བསྒོམ་བཟླས།
+HUMAN: Visualization and Recitation of the Six-Syllable Mantra of Avalokiteśvara
+
+GPT-FT v1: Visualization and Recitation of the Six-Syllable Mantra of Avalokiteśvara
+GPT-FT v2: Visualization of the Sixteen Mahāsiddhas
+
+TIBETAN:སྤྱན་རས་གཟིགས་ཡི་གེ་དྲུག་པའི་བསྒོམ་བཟླས་སྤྲོས་མེད་ཀྱི་ཚུལ་ཉམས་སུ་བླང་བར་འདོད་པས།ཐོག་མར་སྐྱབས་འགྲོ་སེམས་བསྐྱེད་ཚད་མེད་བཞི་རྣམས་སོང་རྗེས།
+HUMAN: If you wish to practise the visualization and recitation of the six-syllable mantra of Avalokiteśvara in a simple, unelaborate way, first take refuge, generate bodhicitta and cultivate the four immeasurables, then recite the following:
+
+GPT-FT v1: The sixth chapter is devoted to the practice of the inexhaustible vase of the heart. It is a recitation of the mantra and the mantra recitation. It is the essence of the practice of the inexhaustible vase.
+GPT-FT v2: Sixth, the visualization of Avalokiteśvara. This is the main practice of the six-thousand-fold mantra. It is the main practice of the practice of bodhicitta, the practice of the four immeasurables, and the practice of the four immeasurables. It is the main practice of the four types of refuge.
+
+TIBETAN:ཧྲཱིཿདག་པའི་ཞིང་ཁམས་པོ་ཊ་ལ་ཡི་དབུས།།
+HUMAN: Hrīḥ. In the centre of the pure realm of Potala,
+
+GPT-FT v1: Hrīḥ! In the centre of a white syllable Hrīḥ
+GPT-FT v2: Hrīḥ. In the centre of a pure realm of the pure,
+
+TIBETAN:རབ་དཀར་པདྨ་ཟླ་བའི་གདན་སྟེང་དུ།།
+HUMAN: Brilliant white, on a lotus and moon disc seat,
+
+GPT-FT v1: On a white lotus and moon-disc seat,
+GPT-FT v2: Upon a lotus, moon and sun disc seat,
+
+TIBETAN:རང་ཉིད་འཕགས་པ་སྤྱན་རས་གཟིགས་ཀྱི་སྐུ།།
+HUMAN: I appear in the form of Noble Avalokiteśvara,
+
+GPT-FT v1: I appear in the form of Avalokiteśvara,
+GPT-FT v2: I appear as the noble Avalokiteśvara,
+
+TIBETAN:དཀར་གསལ་ཞལ་གཅིག་ཕྱག་བཞི་ཞབས་གཉིས་པ།།
+HUMAN: White and radiant, with one face, four arms and two legs.
+
+GPT-FT v1: His face is white and his body is blue.
+GPT-FT v2: Brilliant white, with one face and four hands,
+
+TIBETAN:དང་པོའི་ཕྱག་གཉིས་ཐུགས་ཀར་ཐལ་མོ་སྦྱར།།
+HUMAN: My first two hands are joined at my heart, and
+
+GPT-FT v1: At the end of the session, the final part of the practice is the dedication of the twofold benefit.
+GPT-FT v2: Her first two hands hold a garland of skulls, the other two hold a mongoose.
+
+TIBETAN:འོག་མ་གཉིས་ཀྱིས་ཤེལ་ཕྲེང་པད་དཀར་བསྣམས།།
+HUMAN: The lower two hold a crystal rosary and a white lotus,
+
+GPT-FT v1: With a white lotus at his heart, he holds a sword and a book.
+GPT-FT v2: With two hands, holding a white lotus and a white moon.
+
+TIBETAN:དར་དང་རིན་ཆེན་རྒྱན་ལྡན་སྐྱིལ་ཀྲུང་བཞུགས།།
+HUMAN: I wear silk and jewel ornaments and my seated legs are crossed.
+
+GPT-FT v1: He wears silk and jewel ornaments and a silk hat.
+GPT-FT v2: He wears silks and jewelled ornaments and sits in a cross-legged posture.
+
+TIBETAN:སྤྱི་བོར་བླ་མ་འོད་དཔག་མེད་པས་བརྒྱན།།
+HUMAN: And adorning my crown is Lama Amitābha, Buddha of Boundless Light.
+
+GPT-FT v1: And the guru melts into light and dissolves into me.
+GPT-FT v2: Above my head, Amitābha, Buddha of Limitless Light,
+
+TIBETAN:འཁོར་དུ་སངས་རྒྱས་བྱང་སེམས་སྤྲིན་ལྟར་གཏིབས།།
+HUMAN: All around are buddhas and bodhisattvas gathered like clouds.
+
+GPT-FT v1: And the buddhas and bodhisattvas are all present in the form of a mass of cloud.
+GPT-FT v2: In the presence of the buddhas, you gathered the cloud-like mind of bodhicitta,
+
+TIBETAN:གནས་གསུམ་ཨོཾ་ཨཱཿ་ཧཱུྂ་གི་འོད་ཟེར་གྱིས།།
+HUMAN: From the oṃ āḥ hūṃ at my three centres stream out rays of light
+
+GPT-FT v1: At his three centres are the syllables oṃ, āḥ, and hūṃ,
+GPT-FT v2: With oṃ āḥ hūṃ, from the three places of the three centres of the earth,
+
+TIBETAN:ཡེ་ཤེས་ལྷ་ཚོགས་སྤྱན་དྲངས་གཉིས་མེད་བསྟིམ།།
+HUMAN: Inviting the hosts of wisdom deities, who dissolve indivisibly.
+
+GPT-FT v1: With the wisdom of the twofold wisdom of the deity and the wisdom of the assembly,
+GPT-FT v2: Invoking the wisdom deities, who dissolve indivisibly into the hosts of wisdom deities.
+
+TIBETAN:ཐུགས་དབུས་པད་ཟླའི་གདན་ལ་ཡི་གེ་ཧྲཱིཿ།
+HUMAN: In the centre of my heart on a lotus and moon disc seat is the syllable hrīḥ,
+
+GPT-FT v1: At his heart is a syllable hrīḥ surrounded by the mantra,
+GPT-FT v2: In the centre of his heart is a lotus, sun and moon disc seat,
+
+TIBETAN:དེ་མཐར་སྔགས་ཀྱི་ཕྲེང་བས་བསྐོར་བ་ལས།།
+HUMAN: Surrounded by the mantra garland. From it
+
+GPT-FT v1: At the end of the session, may the mantra and the deity merge as one,
+GPT-FT v2: At the end, the mantra garland is spun around
+
+TIBETAN:འོད་འཕྲོས་འཕགས་མཆོད་འགྲོ་ཀུན་སྒྲིབ་པ་སྦྱོངས།།
+HUMAN: Light streams out, making offerings to the noble ones and purifying the obscurations of all beings.
+
+GPT-FT v1: Light radiates out, offering the essential offerings of the natural state,
+GPT-FT v2: Light radiates out to invite the guests of the noble ones, who purify all the beings’ obscurations.
+
+TIBETAN:ཞིང་ཁམས་ཐམས་ཅད་རི་པོ་ཏ་ལའི་ཞིང་།།
+HUMAN: The whole environment becomes the realm of Mount Potala.
+
+GPT-FT v1: All the māras of the lower realms are pacified,
+GPT-FT v2: May all the lands of the world be filled with the pure land of Mount Potala,
+
+TIBETAN:སྣང་བ་ཐམས་ཅད་ཐུགས་རྗེ་ཆེན་པོའི་སྐུ།།
+HUMAN: All that appears is the form of the Great Compassionate One,
+
+GPT-FT v1: All appearances are the great nirmāṇakāya, the wisdom form,
+GPT-FT v2: All appearances are the enlightened body of the Great Compassionate One.
+
+TIBETAN:སྒྲ་གྲགས་ཐམས་ཅད་ཡི་གེ་དྲུག་པའི་གསུངས།།
+HUMAN: All sounds the speech of the six-syllable mantra,
+
+GPT-FT v1: The six syllables of the mantra are the six families of the buddhas.
+GPT-FT v2: All sounds are the six syllables,
+
+TIBETAN:དྲན་རྟོག་ཐམས་ཅད་སྟོང་ཉིད་སྙིང་རྗེའི་ཐུགས།།
+HUMAN: And all thoughts the wisdom mind of emptiness and compassion.
+
+GPT-FT v1: All our thoughts are bound by the web of compassion,
+GPT-FT v2: All thoughts are empty, yet all thoughts are compassion.
+
+TIBETAN:འཛིན་མེད་ཁྱབ་བདལ་གཉུག་མའི་ངང་ནས་བཟླས།།
+HUMAN: Out of the genuine nature, beyond grasping and all-pervading, I recite the mantra:
+
+GPT-FT v1: And the secret mantra, the essence of the unchanging, infinite, all-pervasive natural state,
+GPT-FT v2: And, in the state of non-dual, all-pervasive space,
+
+TIBETAN:ཨོཾ་མ་ཎི་པདྨེ་ཧཱུྂ།
+HUMAN: oṃ maṇi padme hūṃ
+
+GPT-FT v1: oṃ maṇi padme hūṃ
+GPT-FT v2: oṃ maṇi padme hūṃ
+
+TIBETAN:ཞེས་ཡི་གེ་དྲུག་པ་དང་།དེ་ལ་ཧྲཱི་བཏགས་པའི་ཡི་གེ་བདུན་མ་གང་འདོད་བཟླས་པར་བྱ།སྐབས་སུ།
+HUMAN: Recite this six-syllable mantra, or, if you wish, by adding hrīḥ, the seven-syllable mantra. Then, at some point, continue with:
+
+GPT-FT v1: Recite this mantra as many times as possible. Then, at the end of the session, recite the following:
+GPT-FT v2: Recite the seven-syllable mantra, the mantra of the wish-fulfilling jewel, and recite the following:
+
+TIBETAN:ཧྲཱིཿརང་གི་སེམས་ལ་སེམས་ཀྱིས་ལྟོས།།
+HUMAN: Hrīḥ. At my own mind, with mind, I look:
+
+GPT-FT v1: Hrīḥ. I take refuge in the wisdom mind of my own
+GPT-FT v2: Hrīḥ. My mind has the nature of my own mind.
+
+TIBETAN:ངོས་བཟུང་མེད་པས་ནམ་མཁའ་འདྲ།།
+HUMAN: With nothing to identify, it's just like space,
+
+GPT-FT v1: And I have no hope of liberation until I have heard your words,
+GPT-FT v2: And, without any doubt, in the sky beyond the mind,
+
+TIBETAN:ཅི་ཡང་མ་མཐོང་སང་ངེ་བ།།
+HUMAN: With nothing whatsoever to see, vividly clear,
+
+GPT-FT v1: If you wish to make a practice of this, recite the following:
+GPT-FT v2: And may I see the true face of the Buddha,
+
+TIBETAN:ངོ་བོ་སྟོང་པ་ཉིད་དུ་གནས།།
+HUMAN: In that essence, which is emptiness, I remain.
+
+GPT-FT v1: In the state of emptiness, the essence of all phenomena,
+GPT-FT v2: And, in essence, the essence of emptiness,
+
+TIBETAN:ཨོཾ་མ་ཎི་པདྨེ་ཧཱུྂ་ཧྲཱིཿ
+HUMAN: oṃ maṇi padme hūṃ hrīḥ
+
+GPT-FT v1: oṃ maṇi padme hūṃ hrīḥ
+GPT-FT v2: oṃ maṇi padme hūṃ hrīḥ
+
+TIBETAN:སྟོང་པ་ཟང་ཐལ་ངང་ཉིད་ལས།།
+HUMAN: Out of that experience of unimpeded emptiness
+
+GPT-FT v1: From the state of emptiness, the natural state of appearance,
+GPT-FT v2: Out of emptiness, the nature of the empty nature,
+
+TIBETAN:སྣང་བ་མ་འགག་ས་ལེ་བ།།
+HUMAN: Appearances arise, unobstructed and vividly clear,
+
+GPT-FT v1: All that appears and exists is the natural state,
+GPT-FT v2: The appearance of the bindu, the nature of the bindu,
+
+TIBETAN:རིས་མེད་ཀུན་ཁྱབ་འདུས་མ་བྱས།།
+HUMAN: Without bias, all-pervasive, uncompounded,
+
+GPT-FT v1: The essence of all the buddhas, the unchanging nature,
+GPT-FT v2: And the entire world is pervaded by the non-dual Samantabhadra.
+
+TIBETAN:རང་བཞིན་འོད་གསལ་ངོ་མཚར་ཆེ།།
+HUMAN: And with the nature of clear light –how wonderful!
+
+GPT-FT v1: Great luminosity, clear and radiant,
+GPT-FT v2: The great, self-radiance, the wondrous,
+
+TIBETAN:ཨོཾ་མ་ཎི་པདྨེ་ཧཱུྂ་ཧྲཱིཿ
+HUMAN: oṃ maṇi padme hūṃ hrīḥ
+
+GPT-FT v1: oṃ maṇi padme hūṃ hrīḥ
+GPT-FT v2: oṃ maṇi padme hūṃ hrīḥ
+
+TIBETAN:གསལ་བཞིན་སྟོང་ལ་སྟོང་བཞིན་གསལ།།
+HUMAN: Clear yet empty, and empty yet clear,
+
+GPT-FT v1: Clear and empty, it is the nature of all phenomena.
+GPT-FT v2: The clarity of the four visions, the emptiness of the four elements,
+
+TIBETAN:གསལ་སྟོང་དབྱེར་མེད་བསམ་བརྗོད་བྲལ།།
+HUMAN: Clarity and emptiness indivisible, beyond thought and expression—
+
+GPT-FT v1: And the nature of the empty space of clear light is indivisible from the deity.
+GPT-FT v2: And the empty nature of mind, indivisible from clarity, is beyond expression.
+
+TIBETAN:ལྷན་སྐྱེས་གཉུག་མ་བདེ་ཆེན་འདི།།
+HUMAN: This innate, genuine state of perfect bliss,
+
+GPT-FT v1: This great bliss, which is the nature of all things,
+GPT-FT v2: This naturally arisen, primordial great bliss
+
+TIBETAN:ངེས་དོན་སྤྱན་རས་གཟིགས་དབང་ཡིན།།
+HUMAN: Is the ultimate Lord Avalokiteśvara.
+
+GPT-FT v1: And may the splendour of the enlightened qualities of the noble ones
+GPT-FT v2: The realization of the Lord Avalokiteśvara,
+
+TIBETAN:ཨོཾ་མ་ཎི་པདྨེ་ཧཱུྂ་ཧྲཱིཿ
+HUMAN: oṃ maṇi padme hūṃ hrīḥ
+
+GPT-FT v1: oṃ maṇi padme hūṃ hrīḥ
+GPT-FT v2: oṃ maṇi padme hūṃ hrīḥ
+
+TIBETAN:ཞེས་པའི་དོན་བསམ་ལ་བཟླ།
+HUMAN: Considering the meaning, recite the mantra.
+
+GPT-FT v1: Recite this as many times as possible.
+GPT-FT v2: Recite this mantra.
+
+TIBETAN:མཐར་དགེ་བ་བསྔོ་ཞིང་བཀྲ་ཤིས་བརྗོད་པར་བྱའོ།།
+HUMAN: Finally dedicate the merit and recite verses of auspiciousness.
+
+GPT-FT v1: Then dedicate the merit and recite prayers of auspiciousness.
+GPT-FT v2: At the end, dedicate the merit and recite verses of auspiciousness.
+
+TIBETAN:འདི་ནི་རྒྱུད་ལུང་མན་ངག་གི་དོན་བཞིན་ནཱ་ཐཱ་བི་ཛ་ཡི་ཉམས་ལེན་དུ་མི་ཕམ་པས་བྲིས་པ་དགེའོ།།མངྒ་ལཾ།།
+HUMAN: I, Mipham, wrote this according to the meaning of the tantras, scriptures and pith instructions for Nāthavija's practice. May it be virtuous!  Maṅgalaṃ!
+GPT-FT v1: This was written by the one called Ngawang Lekpa in response to a request from the one called Ngawang Tashi.
+GPT-FT v2: This was written by Mipham in response to a request from the one called Tsering, who has a long-standing connection with the lineage of the Great Perfection.

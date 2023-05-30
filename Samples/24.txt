@@ -1,0 +1,138 @@
+
+
+TIBETAN:༄༅།།བླ་མ་ལ་གསོལ་བ་འདེབས་པའི་གླུ་ཡེ་ཤེས་བྱིན་འབེབས་ཞེས་བྱ་བ་བཞུགས་སོ།།
+HUMAN: The Rain of Wisdom Blessings, A Song of Prayer to the Guru
+
+GPT-FT v1: The Prayer to the Guru that Gives Wisdom
+GPT-FT v2: The Song of the Wisdom Mind, A Prayer to the Guru
+
+TIBETAN:ཨ་ཧོ།།
+HUMAN: Aho!
+
+GPT-FT v1: Aho!
+GPT-FT v2: Aho!
+
+TIBETAN:རང་བྱུང་ལྔ་ལྡན་འཇའ་ཟེར་འཁྲུགས་པ་ཡི་ཀློང་ན།།
+HUMAN: Amidst an expanse of self-arisen, five-coloured rainbow light,
+
+GPT-FT v1: In the sky before me, in the centre of a vast expanse of rainbow-coloured light,
+GPT-FT v2: In the vast expanse of the five natural, self-arisen rainbow-coloured lights,
+
+TIBETAN:ཕ་གཅིག་དྲིན་ཆེན་བླ་མ་ཆོས༵་ཀྱི༵་བློ༵་གྲོས༵་ཁྱེད་མཁྱེན་ནོ།།
+HUMAN: My only father, gracious guru, Chökyi Lodrö, watch over me!
+
+GPT-FT v1: Kiśapāla, Chokgyur Lingpa, care for me!
+GPT-FT v2: O guru, care for me with your great kindness!
+
+TIBETAN:བདག་ཅག་ལས་ངན་འཁྲུལ་པ་ཡི་དབང་དུ་མ་གཏོང་།།
+HUMAN: Do not allow us, whose karma is so wicked, to fall prey to delusion
+
+GPT-FT v1: In the past, present and future, you have been the lord of all deluded beings,
+GPT-FT v2: May we be freed from the mire of negative karma and delusion,
+
+TIBETAN:སྲིད་ལས་ངེས་འབྱུང་སྐྱེ་བར་བྱིན་གྱིས་རང་རློབས་ཤིག།
+HUMAN: But inspire us with the determination to escape conditioned existence!
+
+GPT-FT v1: Inspire me with your blessings, so that I may realize the essence of my own mind!
+GPT-FT v2: Inspire me to recognize the source of all existence and quiescence!
+
+TIBETAN:གཞན་ཕན་ཐུགས་རྗེའི་གཏེར་ཆེན་རྒྱལ་སྲས་ཁྱེད་མཁྱེན་ནོ།།
+HUMAN: Great treasure of altruism and compassion, heir to the victorious, watch over me!
+
+GPT-FT v1: Longchen Rabjam, the great compassionate one, care for me!
+GPT-FT v2: Great treasury of compassion, you who are the son of the victorious ones,
+
+TIBETAN:བདག་འཛིན་འགོང་པོ་འདི་ཉིད་ཚར་གཅོད་ཞིག་བྱས་ཏེ།།
+HUMAN: Inspire me to subjugate this demon of self-clinging,
+
+GPT-FT v1: This concludes the fourth chapter, which joins a short continuation with a longer one:
+GPT-FT v2: I will cut through the root of delusion and the branches of wrong views.
+
+TIBETAN:བདག་བས་གཞན་གཅེས་བྱང་ཆུབ་སེམས་མཆོག་ནི་འབྱོངས་ནས།།
+HUMAN: Master the sublime bodhicitta of cherishing others above myself,
+
+GPT-FT v1: May I perfect the supreme mind of bodhicitta,
+GPT-FT v2: Through the supreme bodhicitta of having attained the state of awakening,
+
+TIBETAN:འགྲོ་དོན་མཁའ་ཁྱབ་འབྱུང་བར་བྱིན་གྱིས་རང་རློབས་ཤིག།
+HUMAN: And become a source of benefit for beings throughout the whole of space.
+
+GPT-FT v1: Inspire me to realize the primordial nature of all phenomena.
+GPT-FT v2: Inspire me to realize the ultimate benefit of beings!
+
+TIBETAN:རྡོ་རྗེའི་རིག་འཛིན་པདྨཱ་ཀ་ར་ཡི་རྒྱལ་ཚབ།།
+HUMAN: Vajra vidyādhara, representative of Padmākara,
+
+GPT-FT v1: Vajra king, Padma of the vajra family,
+GPT-FT v2: Vidyādhara of the lotus family, Pema King of the Lotus,
+
+TIBETAN:ཡེ༵་ཤེས༵་རྡོ༵་རྗེ༵་འོད༵་གས༵ལ་སྙིང༵་པོ༵་རྩལ༵་མཁྱེན་ནོ།།
+HUMAN: Yeshe Dorje Ösal Nyingpo Tsal, watch over me!
+
+GPT-FT v1: Jñāna, who is the wisdom of the Lord of the Family,
+GPT-FT v2: Yeshé Tsogyal, Rāhula, Garab Dorje,
+
+TIBETAN:དབང་བཞིའི་ཆུ་རྒྱུན་བདག་གི་སྒོ་གསུམ་ལ་བསྐུར་ནས།།
+HUMAN: Confer the stream of four empowerments on my three doors,
+
+GPT-FT v1: And, through the force of the fourfold power of the four empowerments,
+GPT-FT v2: Grant us the blessings of the four empowerments, and through the three doors of empowerment,
+
+TIBETAN:རྡོ་རྗེ་བཞི་རུ་སྨིན་པར་བྱིན་གྱིས་རང་རློབས་ཤིག།
+HUMAN: And bless me with maturation as the four vajras!
+
+GPT-FT v1: Inspire me to perfect the four vajra qualities!
+GPT-FT v2: Inspire me to realize the four vajras!
+
+TIBETAN:འཇིག༵ས་མེད༵་ནམ༵་མཁ༵འི་རྡོ༵་རྗེ༵་ཡེ་ཤེས་ཀྱི་སྐུ་ཅན།།
+HUMAN: Jigme Namkhai Dorje in your wisdom form,
+
+GPT-FT v1: The wisdom form of the indestructible, all-pervasive wisdom of the deathless,
+GPT-FT v2: The vajra-kāya of the non-arising, non-dual wisdom,
+
+TIBETAN:བི་མའི་སྤྲུལ་པ་ཚེ༵་དབ༵ང་གྲུབ༵་པ༵་རྩལ༵་མཁྱེན་ནོ།།
+HUMAN: Vima’s emanation, Tsewang Drubpa Tsal, watch over me!
+
+GPT-FT v1: Vimalamitra, the accomplished lord of siddhas,
+GPT-FT v2: Nirmāṇakāya, Vimalamitra,
+
+TIBETAN:གཟུང་འཛིན་རྟོག་ཚོགས་ཆོས་ཉིད་ནམ་མཁའ་ལ་དེངས་ནས།།
+HUMAN: Inspire me with your blessings, so that dualistic thoughts may dissolve into the space of dharmatā,
+
+GPT-FT v1: May I and all other sentient beings, who are as numerous as the atoms in the universe,
+GPT-FT v2: From the space of the realization of the two types of thought,
+
+TIBETAN:འོད་གསལ་སྣང་བཞི་མཐར་ཕྱིན་བྱིན་གྱིས་རང་རློབས་ཤིག།
+HUMAN: And I may reach the culmination of the four visions of clear light!
+
+GPT-FT v1: Inspire me to perfect the four visions of luminosity!
+GPT-FT v2: Inspire me to perfect the four visions of luminosity!
+
+TIBETAN:དེང་ནས་བཟུང་སྟེ་བྱང་ཆུབ་སྙིང་པོ་ཡི་བར་དུ།།
+HUMAN: From this moment on, until I reach the essence of enlightenment,
+
+GPT-FT v1: Then, from the state of emptiness, I shall meditate on the essence of awakening.
+GPT-FT v2: From now until we attain the essence of awakening,
+
+TIBETAN:དཔལ་མགོན་ཆོས་རྗེ་བླ་མ་ཁྱེད་ཞབས་སུ་སྐྱེས་ནས།།
+HUMAN: Inspire me with your blessings, O glorious guru, protector, lord of Dharma, so that I may be reborn in your presence,
+
+GPT-FT v1: May I be cared for by the glorious protector, my guru,
+GPT-FT v2: May the glorious guru, the protector, the glorious protector,
+
+TIBETAN:ཐུགས་ཀྱི་བཅུད་ཐོབ་ཉམས་ལེན་མཐའ་རུ་ནི་ཕྱིན་ཏེ།།
+HUMAN: Receive the essence of your wisdom mind, perfect the practice,
+
+GPT-FT v1: And may all the wishes of the buddhas and their heirs be fulfilled,
+GPT-FT v2: And the essence of the ten directions and ten elements is obtained,
+
+TIBETAN:ཁམས་གསུམ་དོང་ནས་སྤྲུགས་པར་བྱིན་གྱིས་རང་རློབས་ཤིག།
+HUMAN: And empty the three realms from their very depths!
+
+GPT-FT v1: Inspire me with your blessings, so that I may realize the emptiness of my own three doors.
+GPT-FT v2: Inspire me to empty the three realms from their very depths.
+
+TIBETAN:ཅེས་པའང་རང་སློབ་དད་པ་དང་དག་སྣང་གི་བློ་ཅན་སྤར་བརྐོས་ཆོས་འཕེལ་ནས་རིན་ཆེན་སྣ་ཚོགས་ཀྱི་རྟེན་དང་བྲིས་གཞི་བཅས་མཆིམ་ཕུའི་གུར་དཀར་ཕུག་ཏུ་བསྐུལ་བར་བྲག་དམར་ཀེའུ་ཚང་དུ་ཆོས་ཀྱི་བློ་གྲོས་པས་བྲིས་པ་སིདྡྷི་རསྟུ།སརྦ་མངྒ་ལཾ།།།།
+HUMAN: Chökyi Lodrö wrote this in Drakmar Keutsang for his own student Parkö Chöpel, who has a mind of faith and pure perception and who provided writing materials and a gift of various precious substances when making the request in Chimpu’s Gurkar cave.
+GPT-FT v1: Thus, Chökyi Lodrö wrote this prayer for the fulfilment of aspirations in the presence of the precious dharmakāya statue of the great master Chökyi Lodrö in the Land of Snows on the twenty-fifth day of the fifth month of the Iron Horse year (19 April).
+GPT-FT v2: Thus, when the devoted student Chökyi Lodrö offered this prayer, he wrote it down in the presence of the precious relic of the Vidyādhara Palden, which is white in colour and has a ring of precious gems. Siddhirastu!

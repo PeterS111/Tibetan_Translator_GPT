@@ -1,0 +1,192 @@
+
+
+TIBETAN:༄༅།།སྨྲ་སེང་གསོལ་འདེབས་བཞུགས།།
+HUMAN: Prayer to Mañjuśrī, the Lion of Speech
+
+GPT-FT v1: Prayer to Sengé Nyima
+GPT-FT v2: Prayer to the Wisdom Being Tsangpa Sengé
+
+TIBETAN:ན་མོ་ལོ་ཀི་ཤྭ་ར་ཡེ།
+HUMAN: Namo Lokeśvarāya!
+
+GPT-FT v1: Namo kāya-kārāya!
+GPT-FT v2: Namo lokeśvarāya!
+
+TIBETAN:དུས་གསུམ་སངས་རྒྱས་ཐམས་ཅད་ཀྱི།།
+HUMAN: Transcendent conqueror, embodiment of the speech
+
+GPT-FT v1: The essence of all the buddhas of past, present and future,
+GPT-FT v2: All the buddhas of past, present and future
+
+TIBETAN:གསུང་གི་བདག་ཉིད་བཅོམ་ལྡན་འདས།།
+HUMAN: Of all the buddhas of the past, present and future,
+
+GPT-FT v1: To you, the Lord of Speech, who is the very embodiment of wisdom,
+GPT-FT v2: The Lord of Speech, the Lord of Mind,
+
+TIBETAN:པདྨའི་རིགས་ཀྱི་བདག་པོ་སྟེ།།
+HUMAN: Master of the Lotus Family,
+
+GPT-FT v1: And the lotus of your enlightened speech,
+GPT-FT v2: Lord of the family of Padma,
+
+TIBETAN:གསུང་གི་རྡོ་རྗེ་ཞེས་ཀྱང་བྱ།།
+HUMAN: Known as ‘Vajra of Enlightened Speech’,
+
+GPT-FT v1: Recite the mantra as many times as possible.
+GPT-FT v2: Recite the Vajra-Vajra
+
+TIBETAN:འོད་དཔག་མེད་ལ་གསོལ་བ་འདེབས།།
+HUMAN: Amitābha, Buddha of Boundless Light, to you I pray!
+
+GPT-FT v1: To you, the Lord of Speech, we pray!
+GPT-FT v2: To you, Amitābha, we pray!
+
+TIBETAN:དེ་དང་ངོ་བོ་དབྱེར་མེད་པའི།།
+HUMAN: Inseparable from him in essence, yet appearing
+
+GPT-FT v1: And inseparable from the essence of the Buddha,
+GPT-FT v2: And, in the very essence of reality,
+
+TIBETAN:སྲས་ཀྱི་ཐུ་བོའི་ཚུལ་བཟུང་བ།།
+HUMAN: As the foremost of the buddhas' heirs,
+
+GPT-FT v1: And the lord of the buddhas, the lord of the Śākyas,
+GPT-FT v2: You are the one who holds the life-force of the heart-son,
+
+TIBETAN:བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེ།།
+HUMAN: The bodhisattva mahāsattva, great warrior of awakening,
+
+GPT-FT v1: Great bodhisattva, mighty Vajrasattva,
+GPT-FT v2: Great bodhisattva, great bodhisattva,
+
+TIBETAN:འཇམ་དཔལ་དམར་པོ་རལ་གྲི་འཛིན།།
+HUMAN: Mañjuśrī, red in colour and wielding a sword,
+
+GPT-FT v1: Mañjuśrī, red in colour, holding a sword and book,
+GPT-FT v2: The red-faced Mañjuśrī, with a garland of red hair,
+
+TIBETAN:སྨྲ་བའི་སེང་གེར་གསོལ་བ་འདེབས།།
+HUMAN: To you, the Lion of Speech, I pray!
+
+GPT-FT v1: Sangye Wangchuk, to you I pray.
+GPT-FT v2: Sangye Yeshe, to you I pray.
+
+TIBETAN:ཤེས་རབ་ཡུམ་གྱི་ཚུལ་བཟུང་བ།།
+HUMAN: Appearing in the form of the Wisdom Mother,
+
+GPT-FT v1: And the wisdom of the mother, the consort,
+GPT-FT v2: The mother of the wisdom mind,
+
+TIBETAN:དུས་གསུམ་སངས་རྒྱས་ཐམས་ཅད་ཀྱི།།
+HUMAN: Goddess of the speech of all the buddhas
+
+GPT-FT v1: The essence of all the buddhas of past, present and future,
+GPT-FT v2: All the buddhas of past, present and future
+
+TIBETAN:གསུང་གི་ལྷ་མོ་དབྱངས་ཅན་མ།།
+HUMAN: Of past, present and future, Sarasvatī,
+
+GPT-FT v1: The goddess of speech, the goddess of hearing,
+GPT-FT v2: Lady of speech, goddess of the mountains,
+
+TIBETAN:གང་གའི་ལྷ་མོ་ཞེས་ཀྱང་བྱ།།
+HUMAN: Known as ‘Divine Lady of the Ganges’,
+
+GPT-FT v1: Recite this as many times as possible.
+GPT-FT v2: Recite this as many times as possible.
+
+TIBETAN:ངག་གི་ལྷ་མོར་གསོལ་བ་འདེབས།།
+HUMAN: To you, the Goddess of Speech, I pray!
+
+GPT-FT v1: Guru, yidam deities, and ḍākinīs, to you I pray!
+GPT-FT v2: Ngakchung, to you I pray.
+
+TIBETAN:གསོལ་བ་བཏབ་པའི་བྱིན་རླབས་ཀྱིས།།
+HUMAN: Through the blessings of this prayer,
+
+GPT-FT v1: Through the blessings of praying in this way,
+GPT-FT v2: Through the blessings of praying in this way,
+
+TIBETAN:བདག་དང་བདག་གི་རྗེས་འཇུག་དང་།།
+HUMAN: May I and all my followers,
+
+GPT-FT v1: May I be cared for by you, my gracious protector,
+GPT-FT v2: Through this, may I and all beings
+
+TIBETAN:མཐོང་ཐོས་དྲན་རེག་འགྲོ་བ་ཀུན།།
+HUMAN: And all who see, hear or think of me, or come in contact with me in any way,
+
+GPT-FT v1: All the beings of this world, may your wishes be fulfilled,
+GPT-FT v2: All you who see and hear, remember your teachers,
+
+TIBETAN:མི་ཤེས་མུན་པ་རབ་བསལ་ནས།།
+HUMAN: Dispel entirely the darkness of their ignorance,
+
+GPT-FT v1: May I never be apart from you, my mother,
+GPT-FT v2: Dispel the darkness of ignorance,
+
+TIBETAN:ཤེས་རབ་རྩ་ཁ་བྱེ་བར་ཤོག།
+HUMAN: And open up the channels of their wisdom!
+
+GPT-FT v1: May I see the wisdom of my own wisdom!
+GPT-FT v2: May we gain the confidence to investigate!
+
+TIBETAN:སྐྱེ་བ་འདི་ནས་ཚེ་རབས་ཀུན།།
+HUMAN: Henceforth, in all my future lives,
+
+GPT-FT v1: From this moment on, throughout all my future lives,
+GPT-FT v2: From this moment on, throughout all my lives,
+
+TIBETAN:ཤེས་རབ་འཆལ་བར་མི་འབྱུང་ཞིང་།།
+HUMAN: May my intelligence be free from any flaw!
+
+GPT-FT v1: May I never be apart from you, my guide and friend,
+GPT-FT v2: May there be no untimely death,
+
+TIBETAN:ཤེས་རབ་ཕུན་སུམ་ཚོགས་པར་ཤོག།
+HUMAN: May I have perfect wisdom in abundance,
+
+GPT-FT v1: May I perfect the accumulations of wisdom!
+GPT-FT v2: And may we enjoy the abundance of wisdom.
+
+TIBETAN:རྒྱལ་བའི་གསུང་རབ་རྒྱ་མཚོ་ལ།།
+HUMAN: And be blessed with an infallible memory
+
+GPT-FT v1: To the oceanic three roots,
+GPT-FT v2: And the ocean of your speech,
+
+TIBETAN:མི་བརྗེད་གཟུངས་ཀྱང་ཐོབ་པར་ཤོག།
+HUMAN: Of all the ocean-like teachings of the buddhas!
+
+GPT-FT v1: May I attain the level of the noble one!
+GPT-FT v2: And gain the confidence to speak the truth.
+
+TIBETAN:ཆོས་ཉིད་རྣམ་པར་དག་པ་དང་།།
+HUMAN: Through the utter purity of reality itself,
+
+GPT-FT v1: May I actualize the primordial purity,
+GPT-FT v2: May I purify the obscurations of the dharmatā
+
+TIBETAN:རྟེན་འབྲེལ་བསླུ་བ་མེད་པ་དང་།།
+HUMAN: And the infallible laws of interdependence,
+
+GPT-FT v1: May the teachings of the noble Sakya,
+GPT-FT v2: May the interdependence of cause and effect be perfectly established,
+
+TIBETAN:འཇམ་དཔལ་ཡབ་ཡུམ་ཐུགས་རྗེ་ཡིས།།
+HUMAN: And through the compassion of Mañjuśrī and consort,
+
+GPT-FT v1: Through the compassion of Mañjuśrī,
+GPT-FT v2: And the compassionate Mañjuśrī,
+
+TIBETAN:སྨོན་ལམ་བཏབ་བཞིན་འགྲུབ་པར་ཤོག།
+HUMAN: May this prayer of mine be fulfilled!
+
+GPT-FT v1: And may all be accomplished in accordance with the four visions.
+GPT-FT v2: And may I accomplish the aspirations of the path.
+
+TIBETAN:ཅེས་པ་འདིའང་མཁས་གྲུབ་རཱ་ག་ཨ་སྱས་ཉེར་མཁོའི་ཆེད་དུ་སྦྱར་བས་བསྟན་དང་འགྲོ་ལ་གནམ་སྐབས་ཕན་པ་དང་མཐར་ཐུག་བདེ་བའི་རྒྱུར་གྱུར་ཅིག།དགེའོ།།དགེའོ།།དགེའོ།།
+HUMAN: This was composed by Rāgāsya for his own daily practice. May it be a cause for benefiting the teachings and beings and bringing about ultimate happiness. Virtue! Virtue! Virtue!
+GPT-FT v1: Thus, in response to a request from the great master of the lineage of the great adepts, the great adepts of the Great Perfection, and the great adepts of the lineage of the great adepts of the Great Perfection,
+GPT-FT v2: This was composed by the one called Rāga in the great city of Śrāvastī. May virtue and goodness abound!

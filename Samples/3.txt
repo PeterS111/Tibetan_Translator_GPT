@@ -1,0 +1,552 @@
+
+
+TIBETAN:༄༅།།དམ་ཆོས་བདེ་ཆེན་ལམ་མཆོག་གི་ཆ་ལག་ཏུ།དུད་འགྲོའི་རིགས་ལ་ཐར་པའི་ས་བོན་འདེབས་པའི་ཐབས།བདེ་ཆེན་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ།།
+HUMAN: The Stairway to Great Bliss: A Method for Planting the Seed of Liberation in Animals, A Supplementary Practice of the Supreme Path of Noble Dharma and Great Bliss
+
+GPT-FT v1: The Concise Prayer to the Supremely Sacred and Supremely Profound Dharma of the Great Vehicle of Mahāyāna
+GPT-FT v2: The Tracing of the Life of the Supreme Tulku of the Great Blissful Samaya Tradition, A Prayer for the Spread of the Dharma
+
+TIBETAN:ན་མོ་ཨ་མི་ཏ་བྷ་ཡེ།
+HUMAN: Namo amitābhāya!
+
+GPT-FT v1: Namo amitābhāya!
+GPT-FT v2: Namo amitābha!
+
+TIBETAN:འོད་སྣང་མཐའ་ཡས་མགོན་པོ་ལ།།གུས་པས་བཏུད་ནས་དུད་འགྲོའི་རིགས།།
+HUMAN: Before Amitābha, Lord of Limitless Light,  I respectfully bow down.
+
+GPT-FT v1: From the state of the ultimate, the unborn, the natural state, the natural state of clear light,
+GPT-FT v2: With devotion, I pay homage to the noble protector Amitābha,
+
+TIBETAN:ཐར་པའི་ལམ་ལ་ཁྲིད་པའི་ཕྱིར།།ཐབས་ཀྱི་མན་ངག་འདི་ཉིད་བརྩམས།
+HUMAN: In order to guide animals along the path to liberation,  I shall here set out an instruction employing skilful methods.
+
+GPT-FT v1: This concludes the Sādhana of the Ultimate Stages of the Path.
+GPT-FT v2: Thus, you will be guided to the path of liberation,
+
+TIBETAN:དེ་ཡང་དུད་འགྲོའི་རིགས་ཐར་པའི་ཐབས་འདི་ལ།སྐྱབས་འགྲོ་སེམས་བསྐྱེད་སྔོན་དུ་འགྲོ་བའི་སྒོ་ནས།
+HUMAN: In this skilful method for liberating animals, begin by taking refuge and arousing bodhicitta:
+
+GPT-FT v1: In the past, present and future, wherever I go, wherever I may be reborn, I shall take refuge in you, my guru.
+GPT-FT v2: Then, in order to tame beings with the methods of the dharmapālas, you generated the door to refuge and recited the following:
+
+TIBETAN:བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར།།
+HUMAN: Until I realise the essence of enlightenment,
+
+GPT-FT v1: Until I reach the essence of awakening,
+GPT-FT v2: Until I reach the essence of enlightenment,
+
+TIBETAN:སངས་རྒྱས་རྣམས་ལ་སྐྱབས་སུ་མཆི།།
+HUMAN: I take refuge in the buddhas,
+
+GPT-FT v1: I take refuge in the buddhas.
+GPT-FT v2: I take refuge in the buddhas.
+
+TIBETAN:ཆོས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཡི།།
+HUMAN: And likewise in the Dharma,
+
+GPT-FT v1: And the Dharma of the Great Vehicle,
+GPT-FT v2: And the Dharma, which is the cause of awakening,
+
+TIBETAN:ཚོགས་ལའང་དེ་བཞིན་སྐྱབས་སུ་མཆི།།
+HUMAN: And the assembly of bodhisattvas.
+
+GPT-FT v1: And I take refuge in the four immeasurables.
+GPT-FT v2: I take refuge in the Three Jewels,
+
+TIBETAN:ལན་གསུམ།
+HUMAN: Three times.
+
+GPT-FT v1: Three times.
+GPT-FT v2: Three times.
+
+TIBETAN:དེང་དུས་བདག་ཚེ་འབྲས་བུ་ཡོད།།
+HUMAN: Today my birth has been fruitful.
+
+GPT-FT v1: This was written by Dudjom.
+GPT-FT v2: Now, with this, the fruit of my life,
+
+TIBETAN:མི་ཡི་སྲིད་པ་ལེགས་པར་ཐོབ།།
+HUMAN: I have well obtained a human existence.
+
+GPT-FT v1: May I never be apart from you, my gracious guru.
+GPT-FT v2: And gain the excellent fortune of unerring knowledge.
+
+TIBETAN:དེ་རིང་སངས་རྒྱས་རིགས་སུ་སྐྱེས།།
+HUMAN: Today I am born into the family of the buddhas.
+
+GPT-FT v1: And the buddhas and their heirs, the buddha families,
+GPT-FT v2: And the buddhas of the families of the ten directions,
+
+TIBETAN:སངས་རྒྱས་སྲས་སུ་ད་གྱུར་ཏོ།།
+HUMAN: I have become a son or daughter of the buddhas.
+
+GPT-FT v1: I have been taken in by the buddhas.
+GPT-FT v2: The buddhas’ heirs,
+
+TIBETAN:ད་ནི་བདག་གིས་ཅི་ནས་ཀྱང་།།
+HUMAN: From now on, at all costs, I will perform
+
+GPT-FT v1: From now on, I shall not think of you,
+GPT-FT v2: From now on, at all costs, I will perform
+
+TIBETAN:རིགས་དང་མཐུན་པའི་ལས་བརྩམས་ཏེ།།
+HUMAN: The actions befitting to my family.
+
+GPT-FT v1: And may all be auspicious for us to perfect the path
+GPT-FT v2: And through the force of my own and others’ actions,
+
+TIBETAN:སྐྱོན་མེད་བཙུན་པའི་རིགས་འདི་ལ།།
+HUMAN: I will not be a stain
+
+GPT-FT v1: To you, the lord of the Śākyas,
+GPT-FT v2: To the buddhas of the family of the Unsurpassed,
+
+TIBETAN:རྙོག་པར་མི་འགྱུར་དེ་ལྟར་བྱ།།
+HUMAN: On this faultless noble family.
+
+GPT-FT v1: May I never be separated from you, my guru.
+GPT-FT v2: May they never change, but remain stable.
+
+TIBETAN:ལོང་བས་ཕྱག་དར་ཕུང་པོ་ལས།།
+HUMAN: Just like a blind person
+
+GPT-FT v1: And the scent of various kinds of food
+GPT-FT v2: And the wealth of the senses,
+
+TIBETAN:ཇི་ལྟར་རིན་ཆེན་རྙེད་པ་ལྟར།།
+HUMAN: Happening upon a priceless jewel in a heap of rubbish,
+
+GPT-FT v1: Henceforth, may we always carry
+GPT-FT v2: Just as the Blessed One mastered the highest perfection,
+
+TIBETAN:དེ་བཞིན་ཇི་ཞིག་ལྟར་སྟེས་ནས།།
+HUMAN: So, through some fortunate coincidence,
+
+GPT-FT v1: From the state of emptiness, naturally arise
+GPT-FT v2: Just like the Blessed One,
+
+TIBETAN:བྱང་ཆུབ་སེམས་འདི་བདག་ལ་སྐྱེས།།
+HUMAN: The bodhicitta has been born in me.
+
+GPT-FT v1: May I be reborn in the pure realm of bodhicitta,
+GPT-FT v2: May I be born in this land of Tibet,
+
+TIBETAN:བདག་གིས་དེ་རིང་སྐྱོབ་པ་ཐམས་ཅད་ཀྱི།།
+HUMAN: Today, in the presence of all the protectors,
+
+GPT-FT v1: Through the power of this, may I and all other beings
+GPT-FT v2: I and all beings, in all our lives,
+
+TIBETAN:སྤྱན་སྔར་འགྲོ་བ་བདེ་གཤེགས་ཉིད་དང་ནི།།
+HUMAN: I invite all beings to the state of sugata,
+
+GPT-FT v1: And the bliss of union is the enlightened action of the buddhas and their heirs,
+GPT-FT v2: I invite all beings to the state of sugata,
+
+TIBETAN:བར་དུ་བདེ་ལ་མགྲོན་དུ་བོས་ཟིན་གྱིས།།
+HUMAN: And, meanwhile, to happiness and bliss:
+
+GPT-FT v1: And, through the power of the bliss-emptiness of the guru and the yidam deity,
+GPT-FT v2: And, with the help of the vajra brothers and sisters,
+
+TIBETAN:ལྷ་དང་ལྷ་མིན་ལ་སོགས་དགའ་བར་གྱིས།།
+HUMAN: Gods, asuras and others—rejoice!
+
+GPT-FT v1: And the deities of the gods and of the humans and of the spirits,
+GPT-FT v2: To the gods and humans who delight in the teachings,
+
+TIBETAN:ཁྲུས་བྱ་བགེགས་བསྐྲད་སྲུང་འཁོར་བསྒོམ་པ་རྣམས་གྲུབ་རྗེས་འདི་སྐད་བརྗོད།
+HUMAN: Perform the cleansing (trü) ritual, dispel obstructing forces and visualize the protective sphere. Then recite the following:
+
+GPT-FT v1: Recite the mantra of the vajra recitation as many times as possible. Then, at the end of the session, continue with:
+GPT-FT v2: Recite the prayer to the protectors and guardians, and then visualize the accomplishment of the enlightened body, speech and mind.
+
+TIBETAN:ཀྱཻ།མ་རིག་གཏི་མུག་དབང་གྱུར་བས།།
+HUMAN: Kyé! Through the power by ignorance and delusion,
+
+GPT-FT v1: Kyé! In the state of non-referential primordial awareness,
+GPT-FT v2: Kyé! The darkness of ignorance is overcome,
+
+TIBETAN:འཁོར་བ་དུད་འགྲོའི་མངོན་རྟོགས་ཤར།།
+HUMAN: The experiences of various animals in saṃsāra arise.
+
+GPT-FT v1: And may I realize the primordial purity of saṃsāra and nirvāṇa,
+GPT-FT v2: And may I realize the actual nature of the mamos and nyen.
+
+TIBETAN:དེ་བཟློག་ཆོས་དབྱིངས་ཡེ་ཤེས་ཀྱི།།
+HUMAN: As a means of averting them and bringing about
+
+GPT-FT v1: The wisdom of the dharmadhātu, the basic space of the dharmadhātu,
+GPT-FT v2: And the wisdom of the dharmadhātu,
+
+TIBETAN:དཀྱིལ་འཁོར་མངོན་དུ་འགྱུར་བའི་ཐབས།།
+HUMAN: The mandala of dharmadhātu wisdom,
+
+GPT-FT v1: And the power of the maṇḍala of the supreme, secret, union of saṃsāra and nirvāṇa,
+GPT-FT v2: And the power of the maṇḍala of the ultimate deity,
+
+TIBETAN:རྟེན་འབྲེལ་ཆོ་ག་དོན་དམ་གྱི།།
+HUMAN: This rite of auspicious connection,
+
+GPT-FT v1: May I always act in accordance with the sacred Dharma
+GPT-FT v2: May the interdependent circumstances
+
+TIBETAN:ཕྱག་རྒྱས་བཏབ་འདིར་བསླུ་བ་མེད།།
+HUMAN: Sealed with the absolute, is unfailing.
+
+GPT-FT v1: Karmapa, father of mine, hold me with all your compassion!
+GPT-FT v2: And the mudrās of the three vehicles are indivisible.
+
+TIBETAN:བྱིན་དབབ་པ་ནི།
+HUMAN: Descent of blessings:
+
+GPT-FT v1: Bhūtānanda
+GPT-FT v2: Blessing the Offerings
+
+TIBETAN:ཧོ།མཁྱེན་པའི་ཡེ་ཤེས་འོད་དཔག་མེད།།
+HUMAN: Ho! Amitābha, who has the wisdom of omniscience,
+
+GPT-FT v1: Hūṃ! In the wisdom play of the wisdom play of the wisdom play,
+GPT-FT v2: Ho! Amitāyus of wisdom,
+
+TIBETAN:ཐུགས་རྗེའི་གཏེར་མཛོད་པད་དཀར་འཆང་།།
+HUMAN: Avalokiteśvara, treasury of compassion, holding the white lotus,
+
+GPT-FT v1: And the treasury of your compassion is a white lotus—
+GPT-FT v2: Treasury of compassion, white lotus,
+
+TIBETAN:མཐུ་སྟོབས་འོད་ཟེར་གསང་བའི་བདག།
+HUMAN: Vajrapāṇi, Lord of Secrets, radiating power and strength,
+
+GPT-FT v1: And the lord of the maṇḍala, the radiant light of which is the union of emptiness and awareness—
+GPT-FT v2: Master of the secret, vast, and powerful rays of light,
+
+TIBETAN:རྣམ་གསུམ་གཅིག་དྲིལ་བླ་མའི་བྱིན།།
+HUMAN: And the guru, who embodies them all—
+
+GPT-FT v1: And the guru, one of the three roots of the six-kāya maṇḍala,
+GPT-FT v2: The three syllables of the guru’s three centres
+
+TIBETAN:དུད་འགྲོ་འདི་ལ་འབེབས་མཛད་གསོལ།
+HUMAN: Shower down your blessings on this creature, I pray!
+
+GPT-FT v1: To you who are the cause of happiness and wellbeing throughout the world, I offer praise!
+GPT-FT v2: And bring them to this land of Tibet!
+
+TIBETAN:གནོད་པ་བཟློག་ཅིང་ཕན་འདོགས་པའི་སྨོན་ཚིག
+HUMAN: Prayer for averting harm and bringing benefit:
+
+GPT-FT v1: This practice of the inner tantra is the essence of the instructions.
+GPT-FT v2: Recite the mantra of ‘Avert all harm and adversity’ as much as you can.
+
+TIBETAN:ཧོ།དུག་གསུམ་ནད་སེལ་སྨན་གྱི་བླ།།
+HUMAN: Ho! Buddha of Medicine, who heals the sickness of the three poisons,
+
+GPT-FT v1: Hūṃ! Through the power of this, may I be reborn in the pureland of Abhirati
+GPT-FT v2: Hoḥ. The medicine of the three poisons and the medicine of the disease of the three poisons,
+
+TIBETAN:འཇིགས་བརྒྱད་ལས་སྒྲོལ་ཏ་རེ་མ།།
+HUMAN: Noble saviouress Tārā, who protects from the eight fears,
+
+GPT-FT v1: The eight classes of protectors, and the eight classes of liberated ones,
+GPT-FT v2: The eight fears and the like,
+
+TIBETAN:དགྲ་རྐུན་འཆིང་མཛད་མ་རི་ཙྱཻ།།
+HUMAN: And Mārīcī, who binds enemies and thieves—
+
+GPT-FT v1: Vajra-kāya, you are the very essence of all the victorious ones,
+GPT-FT v2: You who act as a guide for all the dralas,
+
+TIBETAN:རྣམ་གསུམ་ནུས་མཐུས་དུད་འགྲོ་ཡི།།
+HUMAN: Through the power and strength of these three,
+
+GPT-FT v1: Through the power of the threefold aspiration
+GPT-FT v2: May all beings of the three worlds be freed
+
+TIBETAN:ནད་གདོན་འཇིགས་བརྒྱད་ལས་གྲོལ་ནས།།
+HUMAN: May this animal be freed from sickness, harmful influences and the eight fears,
+
+GPT-FT v1: And the eight classes of spirits, who are the eight classes of humans,
+GPT-FT v2: May I be freed from the eight diseases,
+
+TIBETAN:ཐར་པ་དང་ནི་རྣམ་མཁྱེན་གྱི།།
+HUMAN: And attain the level
+
+GPT-FT v1: And, in the future, may we gain
+GPT-FT v2: Through the power of this, may I be born
+
+TIBETAN:གོ་འཕང་མངོན་དུ་འགྱུར་བར་མཛོད།།
+HUMAN: Of liberation and omniscience!
+
+GPT-FT v1: And bring about the fulfilment of the aspirations of the ḍākinīs!
+GPT-FT v2: And bring us to the level of the level of the Lord of Siddhas!
+
+TIBETAN:རྟེན་འབུལ་བ་ནི།
+HUMAN: Offering the support:
+
+GPT-FT v1: Recite the following:
+GPT-FT v2: Offering the Support
+
+TIBETAN:ཧོ།རྒྱལ་བ་འོད་དཔག་མེད་མགོན་དང་།།
+HUMAN: Ho! Victorious buddha Lord Amitābha,
+
+GPT-FT v1: Hūṃ. In the form of the Lord of the Family,
+GPT-FT v2: Ho! Protector Amitābha, Buddha of Limitless Light,
+
+TIBETAN:སྤྱན་རས་གཟིགས་དང་མཐུ་ཆེན་ཐོབ།།
+HUMAN: Avalokiteśvara, mighty Vajrapāṇi,
+
+GPT-FT v1: May I be granted the vision of the great bliss of union,
+GPT-FT v2: You received the name Avalokiteśvara, and with your power and strength
+
+TIBETAN:སྨན་བླ་ཏ་རེ་མ་རི་ཙྱཻ།།
+HUMAN: Buddha of Medicine, Tārā and Mārīcī—
+
+GPT-FT v1: Saraha, the one with the name of Vimalamitra,
+GPT-FT v2: The medicine of the earth, the medicine of the mountains,
+
+TIBETAN:ཀུན་ལ་དུད་འགྲོ་འདིའི་བཙོར་བྱས།།
+HUMAN: In order to pacify the sufferings of beings in the lower realms,
+
+GPT-FT v1: And so I shall dedicate all my future lives to help beings.
+GPT-FT v2: And the whole of Tibet is filled with the scent of meat and drink.
+
+TIBETAN:ངན་སོང་སྡུག་བསྔལ་ཞི་བའི་ཕྱིར།།
+HUMAN: But above all, this particular creature,
+
+GPT-FT v1: And the suffering of the lower realms is so great,
+GPT-FT v2: To pacify the sufferings of the lower realms,
+
+TIBETAN:སྒོ་གསུམ་འབུལ་ལོ་ཐུགས་རྗེས་སྐྱོབས།།
+HUMAN: I offer my body, speech and mind to you! Guard us with your compassion!
+
+GPT-FT v1: I offer my body, speech and mind to you, the Three Jewels,
+GPT-FT v2: With your three doors of compassion, protect us!
+
+TIBETAN:བླ་མ་ཡི་དམ་མཁའ་འགྲོ་དང་།།
+HUMAN: To the guru, yidam, ḍākinī,
+
+GPT-FT v1: Guru, yidam, ḍākinīs, and all the ḍākinīs,
+GPT-FT v2: Gurus, yidam deities, ḍākinīs,
+
+TIBETAN:ཆོས་སྐྱོང་དམ་ཅན་རྒྱ་མཚོ་ལ།།
+HUMAN: And the ocean of dharmapālas and oath-bound deities,
+
+GPT-FT v1: To you, the oceanic protector, who subdues
+GPT-FT v2: To the ocean of Dharma protectors,
+
+TIBETAN:འབུལ་ལོ་ཉེར་འཚེ་ཀུན་ཞི་ནས།།
+HUMAN: I offer! Pacify all harm,
+
+GPT-FT v1: From the charnel ground of Khandro Kharchu
+GPT-FT v2: May all the ills of this life be pacified,
+
+TIBETAN:ཐར་པ་དང་ནི་རྣམ་མཁྱེན་གྱི།།
+HUMAN: And bring about all the splendour glory and wondrous qualities
+
+GPT-FT v1: And, in the future, may we gain
+GPT-FT v2: Through the power of this, may I be born
+
+TIBETAN:དཔལ་དང་ཡོན་ཏན་མངོན་གྱུར་ཤོག།
+HUMAN: Of liberation and omniscience!
+
+GPT-FT v1: And may I perfect the qualities of the glorious Buddha!
+GPT-FT v2: May we actualize the glorious and noble qualities!
+
+TIBETAN:ཚེ་གཟུངས་འདོན།
+HUMAN: Recite the dhāraṇī of long-life:
+
+GPT-FT v1: The End of the Practice:
+GPT-FT v2: Recite this as many times as possible.
+
+TIBETAN:བདེན་ཚིག་སྨོན་ལམ་གདབ་པ་ནི།
+HUMAN: Aspiration prayer of prophetic speech:
+
+GPT-FT v1: The Main Part: The Path of Truth
+GPT-FT v2: The Prayer of Aspiration
+
+TIBETAN:ཧོ།འཁོར་བ་དམན་པའི་སྒོ་གསུམ་བོར།།
+HUMAN: Ho! Casting aside the three doors of the lower realms of saṃsāra,
+
+GPT-FT v1: Ho! In the three realms of saṃsāra,
+GPT-FT v2: Ho! In the three worlds of saṃsāra, where the three realms are so far apart,
+
+TIBETAN:ཐར་པའི་ས་བོན་ལེགས་བཏབ་མཐུས།།
+HUMAN: Through the power of planting well the seed of liberation,
+
+GPT-FT v1: Through the power of this, may I be able to
+GPT-FT v2: And through the power of your noble deeds,
+
+TIBETAN:རྒྱལ་བསྟན་དར་ཞིང་སེམས་ཅན་བདེ།།
+HUMAN: May the buddhas' teachings spread and sentient beings be happy,
+
+GPT-FT v1: May the teachings of the Victorious One flourish and spread,
+GPT-FT v2: May the teachings of the Buddha flourish and the lotus of bodhicitta
+
+TIBETAN:ངན་སོང་སྡུག་བསྔལ་ཡོངས་བསལ་ནས།།
+HUMAN: May the suffering of the lower realms be entirely cleared away,
+
+GPT-FT v1: May I be freed from the agony of the lower realms,
+GPT-FT v2: And may the sufferings of the lower realms be entirely banished,
+
+TIBETAN:ཐར་པ་དང་ནི་ཞི་བ་མཆོག།
+HUMAN: And may everyone attain liberation and perfect peace,
+
+GPT-FT v1: And may I always be in the company of
+GPT-FT v2: The supreme relief, the supreme cure,
+
+TIBETAN:མྱུར་དུ་ཐོགས་མེད་མངོན་པར་ཤོག
+HUMAN: Swiftly and without any form of obstacle!
+
+GPT-FT v1: Swiftly, without delay or hesitation, I attain the level of the immortal.
+GPT-FT v2: And swiftly reach the state of non-action.
+
+TIBETAN:མཐའ་སྡུད་བཀྲ་ཤིས་ནི།
+HUMAN: Concluding prayer of auspiciousness:
+
+GPT-FT v1: Composed by the one called Śrī.
+GPT-FT v2: The Vajra Garland
+
+TIBETAN:ཧོ།ཐབས་མཆོག་འཁོར་ལོ་རིན་པོ་ཆེས།།
+HUMAN: Ho! May the precious wheel of supreme methods
+
+GPT-FT v1: Ho! Great and noble mother, to you I pay homage!
+GPT-FT v2: Ho! Supremely skilful practitioner, who is the jewel of the teachings,
+
+TIBETAN:ངན་འགྲོ་འཇོམ་པའི་བཀྲ་ཤིས་ཤོག།
+HUMAN: Bring the auspiciousness of vanquishing the lower realms!
+
+GPT-FT v1: And may all be auspicious for us to perfect the four visions!
+GPT-FT v2: May all be auspicious, to bring the lower realms to an end!
+
+TIBETAN:དཔལ་ཡོན་ནོར་བུ་རིན་པོ་ཆེས།།
+HUMAN: May the precious jewel of glory and qualities
+
+GPT-FT v1: And the precious jewel of his qualities,
+GPT-FT v2: Glorious and precious jewel,
+
+TIBETAN:འདོད་དོན་འབྱུང་བའི་བཀྲ་ཤིས་ཤོག།
+HUMAN: Bring the auspiciousness of granting all that we desire!
+
+GPT-FT v1: May all be auspicious so that we may perfect the four visions!
+GPT-FT v2: And may all be auspicious for bringing about the fulfilment of our wishes!
+
+TIBETAN:ཤེས་རབ་བཙུན་མོ་རིན་པོ་ཆེས།།
+HUMAN: May the precious queen of wisdom
+
+GPT-FT v1: With great wisdom, you recognize the preciousness of all things,
+GPT-FT v2: The precious goddess of wisdom,
+
+TIBETAN:དགའ་བདེ་འཕེལ་བའི་བཀྲ་ཤིས་ཤོག།
+HUMAN: Bring the auspiciousness of increasing happiness and joy!
+
+GPT-FT v1: And may all be auspicious for the fulfilment of our wishes!
+GPT-FT v2: May all be auspicious, to increase happiness and well-being!
+
+TIBETAN:བློ་ལྡན་ཁྱིམ་བདག་རིན་པོ་ཆེས།།
+HUMAN: May the precious householder of intelligent wit
+
+GPT-FT v1: May I be cared for by the great master,
+GPT-FT v2: He is the lord of the world, the precious lord,
+
+TIBETAN:མངའ་ཐང་འཕེལ་བའི་བཀྲ་ཤིས་ཤོག།
+HUMAN: Bring the auspiciousness of increasing power!
+
+GPT-FT v1: May all be auspicious so that we may perfect the auspiciousness of the fourfoldness.
+GPT-FT v2: May all be auspicious, so that we may expand our territories!
+
+TIBETAN:ནུས་ལྡན་གླང་པོ་རིན་པོ་ཆེས།།
+HUMAN: May the precious elephant of prodigious skill
+
+GPT-FT v1: And the precious stūpa,
+GPT-FT v2: And the precious jewel of your intelligence
+
+TIBETAN:གཞན་དཔུང་འཇོམས་པའི་བཀྲ་ཤིས་ཤོག།
+HUMAN: Bring the auspiciousness of conquering opposing forces!
+
+GPT-FT v1: And may all be auspicious so that we may perfect the four visions!
+GPT-FT v2: And may all be auspicious so that we defeat others and overcome obstacles!
+
+TIBETAN:རྩལ་ལྡན་རྟ་མཆོག་རིན་པོ་ཆེས།།
+HUMAN: May the precious horse of strength and agility
+
+GPT-FT v1: Supreme and noble, precious and noble,
+GPT-FT v2: The supremely powerful Hayagrīva,
+
+TIBETAN:ས་ལམ་མྱུར་བསྒྲོད་བཀྲ་ཤིས་ཤོག།
+HUMAN: Bring the auspiciousness of swiftly traversing the paths and stages!
+
+GPT-FT v1: May the auspiciousness of swiftly arriving at the stage of completion!
+GPT-FT v2: May all be auspicious, to bring us swiftly to the state of completion!
+
+TIBETAN:སྟོབས་ལྡན་དམ་དཔོན་རིན་པོ་ཆེས།།
+HUMAN: May the precious military commander of might and power
+
+GPT-FT v1: And the precious Dharma of the Great Perfection,
+GPT-FT v2: With the strength of the samaya of great strength,
+
+TIBETAN:མི་མཐུན་ཕྱོགས་འཇོམས་བཀྲ་ཤིས་ཤོག།
+HUMAN: Bring the auspiciousness of overcoming all adversity!
+
+GPT-FT v1: May all be auspicious so that all may be auspicious for the benefit of all!
+GPT-FT v2: May all be auspicious, to overcome all adversity!
+
+TIBETAN:ཡངས་པའི་རྒྱལ་ཁམས་ཐམས་ཅད་ཀུན།།
+HUMAN: May all the various countries and domains
+
+GPT-FT v1: All the victorious buddhas of the past, present and future,
+GPT-FT v2: All the buddhas of the three times
+
+TIBETAN:བདེ་སྐྱིད་ཕུན་ཚོགས་བཀྲ་ཤིས་ཤོག།
+HUMAN: Enjoy the auspiciousness of perfect happiness and wellbeing!
+
+GPT-FT v1: May all be auspicious so that we may perfect the accumulations!
+GPT-FT v2: May all be auspicious, so that we attain perfect happiness!
+
+TIBETAN:འཁོར་བའི་སེམས་ཅན་ཐམས་ཅད་ཀུན།།
+HUMAN: May all the living beings within samsara
+
+GPT-FT v1: All the sentient beings of saṃsāra and nirvāṇa
+GPT-FT v2: All you beings who are caught up in saṃsāra
+
+TIBETAN:སངས་རྒྱས་ཐོབ་པའི་བཀྲ་ཤིས་ཤོག།
+HUMAN: Enjoy the auspiciousness of gaining Buddhahood!
+
+GPT-FT v1: May all be auspicious so that we may attain buddhahood!
+GPT-FT v2: And may all be auspicious so that we attain buddhahood.
+
+TIBETAN:བླ་མེད་སྔགས་ཀྱི་ཐེག་པ་ལ།།
+HUMAN: In the unsurpassable mantra vehicle
+
+GPT-FT v1: In the guru, the immortal and unchanging wisdom
+GPT-FT v2: In the mantra of the unsurpassable,
+
+TIBETAN:ཐེ་ཚོམ་མེད་པའི་བཀྲ་ཤིས་ཤོག།
+HUMAN: May we enjoy the auspiciousness of lacking doubt!
+
+GPT-FT v1: May auspiciousness pervade everywhere!
+GPT-FT v2: May all be auspicious, so that we attain the state of unsurpassed goodness!
+
+TIBETAN:རབ་འབྱམས་ཕྲིན་ལས་མཐའ་ཡས་ཀྱིས།།
+HUMAN: Through enlightened activity, limitless and infinite,
+
+GPT-FT v1: Through the infinite activity of the enlightened activity of the infinite enlightened activity,
+GPT-FT v2: And through the infinite activities of the infinite enlightened actions
+
+TIBETAN:ཕན་བདེ་སྤེལ་ནུས་བཀྲ་ཤིས་ཤོག
+HUMAN: May there be the auspicious capacity to increase benefit and happiness!
+
+GPT-FT v1: This auspiciousness of bringing benefit to others and to oneself is created.
+GPT-FT v2: May all be auspicious, so that we expand our resources and capacity!
+
+TIBETAN:གཞན་ཡང་བཀྲ་ཤིས་གང་རྒྱས་བའོ།།
+HUMAN: Then recite further prayers of auspiciousness, of whatever length.
+
+GPT-FT v1: Recite this and then:
+GPT-FT v2: This was written by the one called Tashi.
+
+TIBETAN:འདི་ཉིད་སྔགས་ཀྱི་རྣལ་འབྱོར་པ།འཇིགས་མེད་ཕྲིན་ལས་འོད་ཟེར་གྱིས།བྲིས་པའི་སེམས་བསྐྱེད་རོལ་མོའི་སྒྲས།ཕན་བདེ་མགྲོན་དུ་ཁུག་པར་གྱུར།བསླུ་མེད་རྟེན་འབྲེལ་ཟབ་མོ་འདིས།འབྲས་བུས་སངས་རྒྱས་མངོན་པར་ཤོགདགེའོ།།
+HUMAN: This was composed by the mantra practitioner, Jigme Trinlé Özer. Through the musical sounds of this bodhicitta intention, may all be summoned as guests to benefit and happiness! Through this unfailing interdependence, may all attain the fruit of Buddhahood! May virtue abound!
+GPT-FT v1: Thus, in response to a request from the faithful disciple of the supreme yogi, Jigdral Yeshe Dorje, this was written by the one called Rigdzin Jikdral Yeshe Dorje. May it be virtuous!
+GPT-FT v2: This practice of the profound yoga of the Vajrakīla Tantra, which is the essence of the enlightened activity of the enlightened body, speech and mind of the Lord of Speech, Jikmé Trinlé Özer, is the most profound of all the profound practices of the bodhisattvas.

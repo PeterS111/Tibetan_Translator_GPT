@@ -1,0 +1,126 @@
+
+
+TIBETAN:༄༅།།བླ་མའི་རྣལ་འབྱོར་མདོར་བསྡུས་བཞུགས།
+HUMAN: A Concise Guru Yoga
+
+GPT-FT v1: Brief Guru Yoga
+GPT-FT v2: Guru Yoga of the Dzogchen Lineage
+
+TIBETAN:སྤྱི་གཙུག་པདྨ་ཉི་ཟླའི་སྟེང་།།
+HUMAN: Above my head on a blossoming lotus and sun and moon disc seat,
+
+GPT-FT v1: Upon a lion throne, lotus and moon,
+GPT-FT v2: Upon a lotus, sun and moon-disk seat,
+
+TIBETAN:གུ་རུ་པདྨ་འབྱུང་གནས་ནི།།
+HUMAN: Appears Guru Padmākara, the Lotus Born,
+
+GPT-FT v1: Guru Padmasambhava,
+GPT-FT v2: Guru Padmasambhava,
+
+TIBETAN:རྒྱལ་ཀུན་འདུས་པའི་ངོ་བོར་བསམ།།
+HUMAN: Embodiment of all the Victorious Ones.
+
+GPT-FT v1: Embodiment of all the victorious buddhas,
+GPT-FT v2: And, through the power of the Buddha, all the victorious ones,
+
+TIBETAN:དུས་གསུམ་སངས་རྒྱས་གུ་རུ་རིན་པོ་ཆེ༔
+HUMAN: Embodiment of buddhas of past, present and future, Guru Rinpoche;
+
+GPT-FT v1: Embodiment of the buddhas of past, present and future, Guru Rinpoche;
+GPT-FT v2: Precious Guru Rinpoche, you are the Buddha of the three times,
+
+TIBETAN:དངོས་གྲུབ་ཀུན་བདག་བདེ་བ་ཆེན་པོའི་ཞབས༔
+HUMAN: Master of all siddhis, Guru of Great Bliss;
+
+GPT-FT v1: Master of all siddhis, great bliss-gone,
+GPT-FT v2: Master of all siddhis, master of great bliss,
+
+TIBETAN:བར་ཆད་ཀུན་སེལ་བདུད་འདུལ་དྲག་པོ་རྩལ༔
+HUMAN: Dispeller of all obstacles, Wrathful Subjugator of Māras;
+
+GPT-FT v1: Dispel all obstacles, Māra and the six classes of spirits,
+GPT-FT v2: Dispel all obstacles, the fierce nirmāṇakāya of Māra!
+
+TIBETAN:གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ༔
+HUMAN: To you I pray: inspire me with your blessing,
+
+GPT-FT v1: To you I pray: inspire me with your blessings,
+GPT-FT v2: To you I pray: inspire me with your blessings,
+
+TIBETAN:ཕྱི་ནང་གསང་བའི་བར་ཆད་ཞི་བ་དང༌༔
+HUMAN: So that outer, inner and secret obstacles are dispelled,
+
+GPT-FT v1: Pacify outer, inner and secret obstacles,
+GPT-FT v2: Pacify all outer, inner and secret obstacles
+
+TIBETAN:བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔
+HUMAN: And all my aspirations are spontaneously fulfilled.
+
+GPT-FT v1: Grant your blessing, so all our wishes be spontaneously fulfilled!
+GPT-FT v2: Grant your blessing, so all our wishes be spontaneously fulfilled!
+
+TIBETAN:གུ་རུའི་སྐུ་ཡི་གནས་བཞི་ནས།།
+HUMAN: From the four centres on the Guru’s body
+
+GPT-FT v1: From the four centres of the Guru’s body,
+GPT-FT v2: From the four places of the Guru’s body,
+
+TIBETAN:འོད་འཕྲོས་བདག་གི་གནས་བཞིར་ཐིམ།།
+HUMAN: Light radiates out and dissolves into my four centres.
+
+GPT-FT v1: The light radiates out, dissolving the four empowerments into the meditator.
+GPT-FT v2: From which light radiates out to the four places,
+
+TIBETAN:སྒྲིབ་བཞི་དག་ནས་དབང་བཞི་ཐོབ།།
+HUMAN: Through this, the four obscurations are purified and I obtain the four empowerments.
+
+GPT-FT v1: From the state of the four visions, I obtain the four empowerments.
+GPT-FT v2: Purify the four obscurations, receive the four empowerments,
+
+TIBETAN:འོད་ཞུ་རང་དང་གཉིས་མེད་འདྲེས།།
+HUMAN: Guru Padmākara dissolves into light and becomes one with me,
+
+GPT-FT v1: From which light radiates out, uniting with the twofold nature of the luminous and empty.
+GPT-FT v2: From which light streams out, uncontrived and natural,
+
+TIBETAN:བླ་མ་རང་སེམས་དབྱེར་མེད་བསྒོམ།།
+HUMAN: And I meditate on the inseparable unity of the Guru and my own mind.
+
+GPT-FT v1: I visualize the guru as the unchanging essence of mind.
+GPT-FT v2: I am the guru, inseparable from my own mind.
+
+TIBETAN:ཞེས་དགེ་སློང་ཚེ་དབང་བདེ་ཆེན་ངོར།མཆོག་གྱུར་གླིང་པས་བྲིས།།
+HUMAN: This was written by Chokgyur Lingpa at the request of the monk Tsewang Dechen.
+
+GPT-FT v1: This was written by Chokgyur Lingpa at the request of the great disciple Ngawang Lekpa.
+GPT-FT v2: Written by the one called Düsum Tsenpo at the request of the supremely virtuous Dharma practitioner Düpa Chödrön.
+
+TIBETAN:གདོད་མའི་གཤིས་དང་དབྱེར་མེད་པདྨ་འབྱུང་།།
+HUMAN: Lotus-Born, you are inseparable from our original nature.
+
+GPT-FT v1: Padmākara, who is inseparable from the very essence of the ground,
+GPT-FT v2: Padmākara, the embodiment of primordial wisdom,
+
+TIBETAN:རང་སྣང་དག་པའི་ཟངས་མདོག་དཔལ་རིའི་ཞིང་།།
+HUMAN: Your realm, the Copper-Coloured Mountain of Glory,  is our experience in its purity.
+
+GPT-FT v1: The natural appearance of the pure, unaltered natural appearance of the pure,
+GPT-FT v2: May I be reborn in the Copper-Coloured Mountain of Glory
+
+TIBETAN:སྣང་རིག་དབྱེར་མེད་མ་བཅོས་གཉུག་མའི་ངང་།།
+HUMAN: May we take birth in this primordially pure realm,
+
+GPT-FT v1: In the state of appearance and emptiness, the unborn and unborn, the natural and natural,
+GPT-FT v2: In the state of non-dual awareness, the nature of reality,
+
+TIBETAN:གདོད་ནས་རྣམ་དག་ཞིང་དུ་སྐྱེ་བར་ཤོག།
+HUMAN: The uncontrived natural state—appearance and awareness indivisible!
+
+GPT-FT v1: May I be reborn in the pure realm of Sukhāvatī!
+GPT-FT v2: May I be reborn in the primordial purity of the ground.
+
+TIBETAN:ཅེས་རིམ་གཉིས་ཟབ་མོའི་རྣལ་འབྱོར་བླ་མ་བྱང་ཆུབ་བསྐུལ་ངོར།མཆོག་གྱུར་གླིང་པས་གང་ཤར་དོན་དམ་པར་སྦྱར་ནས་བྲིས།།
+HUMAN: To fulfil the request of Lama Changchub, a practitioner of the profound development and completion stages, Chokgyur Lingpa wrote down whatever came to my mind, while maintaining recognition of the absolute.
+GPT-FT v1: This was written by the one called Rigdzin Jigme Lingpa in response to a request from Lama Tulku, the second in command of the monastery of Dzogchen, who is a disciple of the supreme yogi, Mipham Rinpoche.
+GPT-FT v2: This was composed by the one called Lama Chöying in the presence of the supreme yogi, Lama Zangpo, in the temple of Dzongsar Gyangtse.

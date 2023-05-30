@@ -1,0 +1,174 @@
+
+
+TIBETAN:༄༅།།སངས་རྒྱས་བྱང་སེམས་ལ་སྨྲེ་སྔགས་ཀྱི་གསོལ་བ་འདེབས་པ་བཞུགས།།
+HUMAN: Anguished Prayer to the Buddhas and Bodhisattvas
+
+GPT-FT v1: Prayer to the Lineage of the Buddha of Compassion
+GPT-FT v2: Prayer to the Bodhisattva Mahāsattva
+
+TIBETAN:ན་མོ་གུ་རུ།
+HUMAN: Namo guru!
+
+GPT-FT v1: Namo guru!
+GPT-FT v2: Namo guru!
+
+TIBETAN:བླ་མ་མཉམ་མེད་ཐུབ་པའི་དབང་པོ་དང་།།
+HUMAN: Peerless guru, the Lord of Sages,
+
+GPT-FT v1: Guru, yidam, consort and consort’s consort,
+GPT-FT v2: The unsurpassable master, the lord of sages,
+
+TIBETAN:འཇམ་དབྱངས་བྱམས་པ་ཕྱག་རྡོར་སྤྱན་གཟིགས་སོགས།།
+HUMAN: Mañjughoṣa, Maitreya, Vajrapāṇi, Avalokiteśvara and the rest,
+
+GPT-FT v1: Mañjughoṣa, Vajrapāṇi, Dorje Tso,
+GPT-FT v2: Mañjughoṣa, Vajrapāṇi, and the rest—
+
+TIBETAN:དམིགས་མེད་ཐུགས་རྗེ་ཆེན་པོ་དང་ལྡན་པའི།།
+HUMAN: Possessors of great, non-referential compassion,
+
+GPT-FT v1: And the great compassionate sovereign,
+GPT-FT v2: With great compassion, you are the embodiment of the Great Compassionate One,
+
+TIBETAN:རྒྱལ་དང་དེ་སྲས་ཚོགས་རྣམས་དགོངས་སུ་གསོལ།།
+HUMAN: Victors and your heirs, turn your attention towards me.
+
+GPT-FT v1: And all the buddhas and their heirs, please grant me your blessings!
+GPT-FT v2: And all the victorious ones and their heirs, turn your attention towards me!
+
+TIBETAN:ཀྱེ་མ།བདག་འདྲའི་སེམས་ཅན་ལས་ངན་པ།།
+HUMAN: Kyema! Sentient beings like me possess such evil karma.
+
+GPT-FT v1: Kye! O Kye! O precious guru, may your life remain secure,
+GPT-FT v2: Kyema! All sentient beings, my very own parents,
+
+TIBETAN:ལུས་ལ་སྣ་ཚོགས་ནད་ཀྱིས་གདུང་བས་མནར།།
+HUMAN: Our bodies are racked by various forms of illness,
+
+GPT-FT v1: The smell of food and drink contaminates the body,
+GPT-FT v2: My body is sick with every kind of illness,
+
+TIBETAN:ངག་ནི་མི་དགེའི་གཏེར་གྱི་འབྱུང་གནས་གྱུར།།
+HUMAN: Our speech is like a treasury of the non-virtuous,
+
+GPT-FT v1: And the treasure of the golden speech of the ḍākinīs
+GPT-FT v2: The source of non-virtue is the treasure of virtue.
+
+TIBETAN:སེམས་ལ་བྱིང་རྨུགས་གཉིད་དང་བརྗེད་ངས་ཆེ།།
+HUMAN: Our minds are drowsy, dull, torpid and forgetful.
+
+GPT-FT v1: And the great bodhisattva,
+GPT-FT v2: You are the great lord of all sentient beings,
+
+TIBETAN:སྒོ་གསུམ་འཁྲུལ་པའི་རང་བཞིན་འདི་འདྲ་བའི།།
+HUMAN: May the victorious ones and their heirs
+
+GPT-FT v1: May the four doors of the path of the three roots and four doors of the secret mantra
+GPT-FT v2: This is the nature of delusion, the nature of the four doors of liberation.
+
+TIBETAN:གནས་ངན་ལེན་ལ་སྲས་བཅས་རྒྱལ་བ་ཡི།།
+HUMAN: Look with great compassion upon the deluded nature of our three doors,
+
+GPT-FT v1: And the victors and their heirs,
+GPT-FT v2: And the teachings of the victorious ones and their heirs,
+
+TIBETAN:ཐུགས་རྗེ་ཆེན་པོས་ངེས་པར་གཟིགས་སུ་གསོལ།།
+HUMAN: And their tendencies which lead to states of misery.
+
+GPT-FT v1: Please look upon me with your compassion!
+GPT-FT v2: Look on me with your great compassion, I pray.
+
+TIBETAN:བདག་ནི་བླང་དོར་ཅུང་ཟད་ཤེས་ནའང་།།
+HUMAN: I know a little of what to adopt and to avoid,
+
+GPT-FT v1: I have no hope, no faith, no confidence,
+GPT-FT v2: I have accepted the offerings, but have not understood their true nature.
+
+TIBETAN:ཤེས་བཞིན་ཉོན་མོངས་ཆང་གི་རབ་མྱོས་པས།།
+HUMAN: But my vigilance is as if intoxicated by the kleśas,
+
+GPT-FT v1: And the wisdom of the four empowerments is perfected.
+GPT-FT v2: And the power of the four knowledge-based means of liberation,
+
+TIBETAN:དབང་མེད་གྱུར་པའི་སྐྱེ་ངན་བདག་ཉིད་ལ།།
+HUMAN: And I am helpless—O buddhas and bodhisattvas,
+
+GPT-FT v1: And, having been born in the realm of the inseparable inseparability,
+GPT-FT v2: I am a helpless, tormented being,
+
+TIBETAN:རྒྱལ་སྲས་རྣམས་ཀྱིས་སྐྱོབ་པར་མཛད་དུ་གསོལ།།
+HUMAN: Protect me, I pray, wretched as I am.
+
+GPT-FT v1: And may your life remain secure for a hundred aeons!
+GPT-FT v2: And protect us with your bodhisattva heirs.
+
+TIBETAN:ལས་ཉོན་འཁྲུལ་འཁོར་དྲག་པོ་བཟློག་པ་དང་།།
+HUMAN: Stop the process of karma and the kleśas
+
+GPT-FT v1: May the delusions of saṃsāra and nirvāṇa be dispelled,
+GPT-FT v2: May the fierce storms of karma and deluded thoughts be averted,
+
+TIBETAN:འཁོར་བའི་མུན་པ་སྨུག་པོ་བསལ་དུ་གསོལ།།
+HUMAN: And dispel the dense darkness of saṃsāra!
+
+GPT-FT v1: Purify my own and the sponsor’s
+GPT-FT v2: Dispel the darkness of saṃsāra’s darkness, I pray.
+
+TIBETAN:ཡེ་ཤེས་ཟེར་གྱིས་སྣང་བའི་སྒོ་ཕྱེས་ལ།།
+HUMAN: Open the way to light through your wisdom rays,
+
+GPT-FT v1: And the wisdom of the great bliss of union and emptiness,
+GPT-FT v2: Through the opening of the wisdom light of the wisdom of appearance and existence,
+
+TIBETAN:མ་འཁྲུལ་གནས་ལུགས་ཟབ་མོ་དེ་ཁོ་ནའི།།
+HUMAN: And reveal to me, I pray, the undeluded state,
+
+GPT-FT v1: And the profound and secret teachings of the Mahāyāna,
+GPT-FT v2: And the profound and vast instructions of the Mother of the Dharma,
+
+TIBETAN:རང་བཞིན་མངོན་གྱུར་བདག་ལ་མཛད་དུ་གསོལ།།
+HUMAN: The profound nature of reality, exactly as it is.
+
+GPT-FT v1: And may your enlightened activity be fulfilled in all our lives!
+GPT-FT v2: And grant me the realization of my own nature.
+
+TIBETAN:ཀྱེ་མ་ཀྱིི་ཧུད་རྒྱལ་བ་ཐུགས་རྗེ་ཅན།།
+HUMAN: Kyema Kyihü! O compassionate conquerors,
+
+GPT-FT v1: Kye! Mother of the buddhas, compassionate one,
+GPT-FT v2: Kyema! O compassionate one, king of Tibet,
+
+TIBETAN:ད་ལྟ་ཉིད་དུ་སྲིད་པའི་འདམ་ལས་དྲོངས།།
+HUMAN: Lead me from the mire of existence, here and now,
+
+GPT-FT v1: And the state of the natural state of the four empowerments,
+GPT-FT v2: From the depths of my heart, I exhale a long sigh of longing,
+
+TIBETAN:བྱང་ཆུབ་མཆོག་གི་ལམ་ལ་དྲོང་དུ་གསོལ།།
+HUMAN: And guide me along the path of supreme awakening.
+
+GPT-FT v1: And the supreme path of supreme awakening.
+GPT-FT v2: And lead me to the supreme path of awakening!
+
+TIBETAN:སྒྲིབ་པའི་དྲི་མ་དག་ཅིང་བྱང་བ་དང་།།
+HUMAN: Cleanse and purify the stains of my obscurations,
+
+GPT-FT v1: Purify my obscurations, the six misdeeds,
+GPT-FT v2: Purify the stains of obscurations,
+
+TIBETAN:རྟོགས་པའི་ཡོན་ཏན་ཉམས་འོག་ཆུད་པ་དང་།།
+HUMAN: Help me to experience the qualities of realization,
+
+GPT-FT v1: May I realize the qualities of realization,
+GPT-FT v2: May I develop the qualities of realization and experience,
+
+TIBETAN:སྐུ་བཞིའི་རྒྱལ་ས་ཐོབ་པར་མཛད་དུ་གསོལ།།
+HUMAN: And cause me to attain the kingdom of the four kāyas!
+
+GPT-FT v1: And grant me the attainments of the four kāyas!
+GPT-FT v2: And gain the kingdom of the four kāyas.
+
+TIBETAN:ཅེས་པའང་བློ་གྲོས་རྒྱ་མཚོས་གསོལ་བ་བཏབ་པའོ།།།།
+HUMAN: Thus, Lodrö Gyatso prayed.
+GPT-FT v1: This was written by the one called Dorje Lekpa at the request of the faithful one named Ngawang.
+GPT-FT v2: This was written by Lodrö Gyatso.

@@ -1,0 +1,234 @@
+
+
+TIBETAN:༄༅།།སྒང་ཐོག་གི་ཀླུ་མཆོད་བཞུགས་སོ།
+HUMAN: Offering to the Nāgas of Gangtok
+
+GPT-FT v1: Offering to the Nāgas of the Nāḍaka Lineage
+GPT-FT v2: Offering of the Nāga-Mātṛkā: A Short Prayer
+
+TIBETAN:རྃ་ཡྃ་ཁྃ།ཨོཾ་ཨཱཿཧཱུྃ།
+HUMAN: raṃ yaṃ khaṃ | oṃ āḥ hūṃ
+
+GPT-FT v1: raṃ yaṃ khaṃ | oṃ āḥ hūṃ
+GPT-FT v2: raṃ yaṃ khaṃ | oṃ āḥ hūṃ
+
+TIBETAN:མཆོད་གཏོར་གྱི་འབག་བཙོག་དྲི་མ་ཐམས་ཅད་སེལ།
+HUMAN: All impurities in the offering tormas are eliminated,
+
+GPT-FT v1: All outer, inner and secret offerings are made free from any obscuration.
+GPT-FT v2: Dispel all the defilements of offerings, tormas and offerings, and purify them all!
+
+TIBETAN:རང་རང་གི་མཐུན་རྫས་ཟད་མི་ཤེས་པར་གྱུར།
+HUMAN: And they become an inexhaustible supply of whatever each one desires.
+
+GPT-FT v1: May I never be apart from you, my own self-radiance.
+GPT-FT v2: The substance is not seen as being anything at all.
+
+TIBETAN:ཀྱཻ།རྒྱ་མཚོ་ཆེན་པོའི་གཏིང་ཤེད་ན།།
+HUMAN: Kyai. In the depths of the great ocean
+
+GPT-FT v1: Kyé! In the great ocean of the oceanic nature of the self-arisen
+GPT-FT v2: Kyé! In the great ocean of the mind,
+
+TIBETAN:ཕོ་བྲང་གཞལ་མེད་ཉམས་དགའ་བར།།
+HUMAN: In the immense and delightful palace
+
+GPT-FT v1: In the palace of the unsurpassable,
+GPT-FT v2: In the palace of the unsurpassable,
+
+TIBETAN:ཀླུ་ཡི་རྒྱལ་པོ་དུང་སྐྱོང་ནི།།
+HUMAN: Is Śaṅkhapāla, king of the nāgas,
+
+GPT-FT v1: Könchok Namgyal,
+GPT-FT v2: We pay homage to the noble elder Nāgārjuna,
+
+TIBETAN:སྐུ་མདོག་དཀར་ལ་འོད་ཟེར་འབར།།
+HUMAN: White in colour and blazing with light rays,
+
+GPT-FT v1: In the form of white light, he blazes with the light of wisdom,
+GPT-FT v2: His body is white, radiant, and ablaze with rays of light.
+
+TIBETAN:སྐུ་སྟོད་ལྷ་རྫས་རིན་ཆེན་བརྒྱན།།
+HUMAN: His upper body adorned with divine fabric and jewels,
+
+GPT-FT v1: He is adorned with the silken garments of the eight classes of deities.
+GPT-FT v2: The precious substances of the deity and the precious substances of the gods,
+
+TIBETAN:སྐུ་སྨད་སྦྲུལ་མཇུག་རྒྱ་མཚོར་རོལ།།
+HUMAN: His lower body has the tail of a serpent,
+
+GPT-FT v1: The master is a tamer of all, a master of a thousand dances,
+GPT-FT v2: You display an ocean of forms, and playfully display an ocean of illusion.
+
+TIBETAN:ཕྱག་གཉིས་ནོར་བུ་འོད་འབར་བསྣམས།།
+HUMAN: And his two hands hold a gleaming jewel.
+
+GPT-FT v1: With a thousand heads and arms, she holds a blazing torch and
+GPT-FT v2: With two hands, one holding a jewel and the other a vase of light.
+
+TIBETAN:སྦྲུལ་མགོའི་གདེངས་ཀ་བདུན་གྱིས་མཛེས།།
+HUMAN: He is adorned by the hoods of seven serpents.
+
+GPT-FT v1: And the seven emanations of the noble Karmapa,
+GPT-FT v2: And with the sevenfold protection of the guardian deities,
+
+TIBETAN:གཡོན་དུ་གཙུག་ན་འོད་འབར་སྔོ།།
+HUMAN: To his left is Crest of Blazing Light, bluish green in colour,
+
+GPT-FT v1: His left hand holds a blazing sword and the right a skull-cup.
+GPT-FT v2: His left is ablaze with light and blazes with light.
+
+TIBETAN:ཆ་ལུགས་ཡབ་འདྲ་གཏེར་བུམ་བསྣམས།།
+HUMAN: With the same dress as her male counterpart and holding a treasure vase.
+
+GPT-FT v1: In the centre of which is the treasure of the Abhirati,
+GPT-FT v2: And holds a terma vase with the gesture of the natural way.
+
+TIBETAN:འཁོར་དུ་ཀླུ་གཉན་ས་བདག་བསྐོར།།
+HUMAN: They are surrounded by a retinue of nāga and nyen earth lords.
+
+GPT-FT v1: Surrounded by the nāga and nyenma.
+GPT-FT v2: Surrounded by his retinue of nāgas:
+
+TIBETAN:འདིར་གཤེགས་རྟེན་ལ་བཞུགས་སུ་གསོལ།།
+HUMAN: Come now, take your place in this support, we pray.
+
+GPT-FT v1: Come now, to this place of our own accord!
+GPT-FT v2: Come now, I pray, to this land of Tibet!
+
+TIBETAN:ཁྱེད་ལ་དགྱེས་པའི་མཆོད་པ་ནི།།
+HUMAN: We present these offerings to delight you:
+
+GPT-FT v1: I offer to you, the one who delights
+GPT-FT v2: I offer you this delighting offering
+
+TIBETAN:ཀླུ་སྨན་ཀླུ་ནོར་ཉེར་གཅིག་དང་།།
+HUMAN: Nāga medicine, the twenty-one nāga riches,
+
+GPT-FT v1: Nāga, nāga, nāga!
+GPT-FT v2: The nāga king, the nāga queen,
+
+TIBETAN:སྤྱན་གཟིགས་དཀོར་ཆ་སྣ་ཚོགས་དང་།།
+HUMAN: Splendid gifts and various forms of donation,
+
+GPT-FT v1: The hosts of deities of the maṇḍala,
+GPT-FT v2: The various kinds of food,
+
+TIBETAN:དཀར་མངར་འོ་ཆབ་ཉེར་སྤྱོད་སོགས།།
+HUMAN: The whites, the sweets, milk, water and other sensory delights,
+
+GPT-FT v1: White, smiling, holding a skull-cup and skull-teapot,
+GPT-FT v2: And the white and red robes of the kama and terma,
+
+TIBETAN:དར་ཟབ་རིན་ཆེན་ལྗོན་ཤིང་བཟང་།།
+HUMAN: Fine silk, jewels, excellent trees,
+
+GPT-FT v1: The silk robe is of exquisite brocade,
+GPT-FT v2: The precious and precious mountain,
+
+TIBETAN:ཁྲུས་རྫིང་སྐྱེད་ཚལ་ལ་སོགས་པ།།
+HUMAN: Bathing pools, pleasure gardens and the like—
+
+GPT-FT v1: The local spirits are the local deities, and the local spirits are the local spirits.
+GPT-FT v2: And the rest—the generation and perfection phases of the path—
+
+TIBETAN:འདོད་ཡོན་མཁོ་དགུའི་མཆོད་པ་དང་།།
+HUMAN: Offerings of every form of sensory stimulant.
+
+GPT-FT v1: To offer the excellent samaya substances,
+GPT-FT v2: To the nine female deities who delight in sensual stimulants,
+
+TIBETAN:ཁྱད་པར་སྔགས་དང་ཏིང་འཛིན་གྱིས།།
+HUMAN: And especially, wish-granting jewels
+
+GPT-FT v1: And especially the teachings of the Great Perfection,
+GPT-FT v2: And especially the mantra of the Vidyādhara Assembly,
+
+TIBETAN:སྤྲུལ་པའི་ནོར་བུ་བསམ་འཕེལ་སོགས།།
+HUMAN: Created through the power of mantra and meditation.
+
+GPT-FT v1: And the emanations of the buddhas and their heirs—
+GPT-FT v2: And the treasures of the nirmāṇakāya,
+
+TIBETAN:འདོད་རྒུ་འབྱུང་བའི་རྟེན་དུ་འབུལ།།
+HUMAN: All this we offer as a support for the arising of all that is desirable.
+
+GPT-FT v1: And the whole world is filled with the joy of happiness and wellbeing.
+GPT-FT v2: I offer this as a support for the fulfilment of all desires.
+
+TIBETAN:བདག་ཅག་འཁོར་དང་བཅས་པ་ཡི།།
+HUMAN: We confess whatever we and those around us
+
+GPT-FT v1: To you, the noble ones, who are all the buddhas,
+GPT-FT v2: May all those who are connected with us
+
+TIBETAN:བྱ་བ་སྤྱོད་པ་ཉེས་པ་ལས།།
+HUMAN: Have done in error and as misdeeds
+
+GPT-FT v1: From the practice of the path of the generation phase,
+GPT-FT v2: And through the power of my prayers,
+
+TIBETAN:ཕོག་ཐུག་འགྲམ་འཁྲུགས་གྱུར་པ་བཤགས།།
+HUMAN: That might have caused offence or upset.
+
+GPT-FT v1: I confess all impairments and breakages of samaya, confidences and secrets.
+GPT-FT v2: I confess with my mind of all my faults and wrongs.
+
+TIBETAN:བདེ་གཤེགས་ཀླུ་དབང་རྒྱལ་པོ་ཡིས།།
+HUMAN: May the king of mighty, bliss-gone nāgas
+
+GPT-FT v1: The nāga king, the nāga queen,
+GPT-FT v2: And the king of nāgas, the sugatas,
+
+TIBETAN:ཁྱེད་ལ་རྟག་ཏུ་སྲུངས་སྐྱོབས་མཛོད།།
+HUMAN: Always offer shelter and protection,
+
+GPT-FT v1: I take refuge in you, my guru.
+GPT-FT v2: Always protect me, and guard me always.
+
+TIBETAN:ནད་དང་གནོད་པ་ཞི་གྱུར་ཅིག།
+HUMAN: Pacify all sickness and causes of harm.
+
+GPT-FT v1: May it be destroyed and may it never arise again.
+GPT-FT v2: May illness and harmful influences be pacified!
+
+TIBETAN:པདྨ་འབྱུང་གནས་བཀའ་བཞིན་དུ།།
+HUMAN: In accordance with the words of Padmākara,
+
+GPT-FT v1: In the land of Tibet, in the land of Padma,
+GPT-FT v2: In the form of Padmākara, the Lotus-Born,
+
+TIBETAN:སྦས་གནས་སྣོད་བཅུད་སྲུངས་སྐྱོབས་དང་།།
+HUMAN: May you guard the environment and inhabitants of this hidden land,
+
+GPT-FT v1: The environment is filled with the support and supportable sources of refuge,
+GPT-FT v2: Protect us from the attacks of the elements and from the guardians of the environment,
+
+TIBETAN:ཞི་དང་བཀྲ་ཤིས་བདེ་ལེགས་ཤིང་།།
+HUMAN: Bring peace, good fortune, happiness and wellbeing
+
+GPT-FT v1: May auspiciousness and auspiciousness together
+GPT-FT v2: May all be auspicious, to bring happiness and well-being!
+
+TIBETAN:དཔལ་འབྱོར་ལོངས་སྤྱོད་རྒྱས་པར་མཛོད།།
+HUMAN: And cause wealth and resources to increase.
+
+GPT-FT v1: And delight in the saṃbhogakāya!
+GPT-FT v2: And may the splendour of the Awesome Ones’ activity increase!
+
+TIBETAN:བསྟན་དང་བསྟན་འཛིན་སྦྱིན་བདག་བཅས།།
+HUMAN: May the teachings flourish and holders and patrons of the teachings
+
+GPT-FT v1: And grant us the prosperity of spreading the teachings and beings’ welfare,
+GPT-FT v2: Together with the teachings and holders of the teachings,
+
+TIBETAN:དགེ་ལེགས་དཔལ་ཡོན་འཕེལ་བར་ཤོག།
+HUMAN: Enjoy ever greater virtue, excellence and glory.
+
+GPT-FT v1: And may I enjoy the splendour of all the qualities of the noble ones!
+GPT-FT v2: May the qualities of virtue increase!
+
+TIBETAN:ཅེས་པའང་ཟླ་༢ཚེས་༢༢སྤ་སངས་ནམ་གྲུའི་འགྲུབ་སྦྱོར་ལ་ཆོས་ཀྱི་བློ་གྲོས་པས་བྲིས་པའོ།།།།
+HUMAN: Chökyi Lodrö wrote this on the 22nd day of the second month during the conjunction of Venus and Revatī.
+GPT-FT v1: Chökyi Lodrö wrote this at the request of the devoted disciple Ngawang Chökyi.
+GPT-FT v2: Chökyi Lodrö wrote this on the fifth day of the first month of the Earth Dog year (1892).

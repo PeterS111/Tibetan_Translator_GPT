@@ -1,0 +1,90 @@
+
+
+TIBETAN:༄༅།།ཞབས་བརྟན་བཞུགས།
+HUMAN: Prayer for the Long Life of Alak Zenkar Rinpoche
+
+GPT-FT v1: Prayer
+GPT-FT v2: A Prayer of Aspiration
+
+TIBETAN:ཐུབ་བསྟན་ཡོངས་སུ་རྫོགས་པའི་དཀྱིལ་འཁོར་ལས།།
+HUMAN: With a thousand rays, the wondrous expression of scripture and reasoning,
+
+GPT-FT v1: And the supreme and perfect teachings of the Sage,
+GPT-FT v2: And through the maṇḍala of the Buddha’s teachings, may I be born in the final stage,
+
+TIBETAN:རྨད་བྱུང་ལུང་རིགས་སྨྲ་བའི་འོད་སྟོང་གིས།།
+HUMAN: From the solar maṇḍala of the Sage’s teachings as a whole,
+
+GPT-FT v1: And the light of the wisdom of the enlightened body, speech and mind
+GPT-FT v2: Through the light of the speech of the victorious ones and their heirs,
+
+TIBETAN:བཤད་སྒྲུབ་པད་ཚལ་ཕྱོགས་བརྒྱར་རྒྱས་པའི་གཉེན།།
+HUMAN: You cause the lotus gardens of teaching and practice to bloom in a hundred directions—
+
+GPT-FT v1: And the eight great masters of study and practice,
+GPT-FT v2: And the great spiritual friend who spreads the teachings in the eight directions—
+
+TIBETAN:གངས་ཅན་བསྟན་པའི་ཉི་མར་ཞབས་བརྟན་གསོལ།།
+HUMAN: Sun of the teachings in the Land of Snows, may your life remain secure.
+
+GPT-FT v1: May the life of the Buddha remain secure for a hundred aeons!
+GPT-FT v2: Sun of the teachings, may your life remain secure.
+
+TIBETAN:བཀྲ་ཤིས་སྐུ་ཡི་དཔག་བསམ་རྩ་བ་བརྟན།།
+HUMAN: With the stable roots of your auspicious, wishing-tree-like form,
+
+GPT-FT v1: May the auspiciousness of the kāya of the wisdom body, speech and mind
+GPT-FT v2: May the auspiciousness of your enlightened body, speech and mind be firm!
+
+TIBETAN:ལེགས་བཤད་བདུད་རྩིའི་ཆར་གྱིས་འཛམ་གླིང་བསིལ།།
+HUMAN: The nectarous rain of your excellent speech that cleanses the world,
+
+GPT-FT v1: The sun of your excellent explanations and explanations of the Dharma,
+GPT-FT v2: With the nectar of your excellent explanations, you shower down like rain.
+
+TIBETAN:ཡེ་ཤེས་གཟི་བརྗིད་དམ་པའི་ཚོགས་ནང་དུ།།
+HUMAN: And your wisdom and brilliance preeminent among hosts of the sublime,
+
+GPT-FT v1: In the pure realm of wisdom, where the assembly of deities
+GPT-FT v2: In the presence of the hosts of wisdom deities,
+
+TIBETAN:ཆེར་འཕགས་ཉི་ཟླའི་མཆེད་པོར་འཚོ་གཞེས་གསོལ།།
+HUMAN: May you remain, I pray, like a counterpart of the sun and moon.
+
+GPT-FT v1: To you, the sun of the noble land of Tibet, we pray!
+GPT-FT v2: And the sun and moon of your life-force remain stable.
+
+TIBETAN:སྲས་བཅས་རྒྱལ་རྣམས་ཚེ་དབང་བདུད་རྩི་སྩོལ།།
+HUMAN: May the buddhas and their heirs confer the nectarous empowerment of long life,
+
+GPT-FT v1: Grant us the prosperity of increasing the size of our kingdom!
+GPT-FT v2: And grant your blessings so that the lives of the victorious ones and their heirs are secure.
+
+TIBETAN:རིག་འཛིན་ཌཱཀྐིས་ཤིས་བརྗོད་དབྱངས་སྙན་སྒྲོགས།།
+HUMAN: The vidyādharas and ḍākinīs sing melodious songs of auspiciousness,
+
+GPT-FT v1: The auspiciousness of the vidyādharas and ḍākinīs is increased, and the sounds of the mantra resound.
+GPT-FT v2: And the vidyādhara Ācārya Laṅka raised his voice in song,
+
+TIBETAN:མཐུ་ལྡན་སྲུང་མས་དགྲ་བགེགས་ཐལ་བར་བརླག།
+HUMAN: And mighty guardians crush opposing and obstructing forces to dust,
+
+GPT-FT v1: May the enemies of the land be defeated and the enemies of the people pacified!
+GPT-FT v2: And pacify harmful influences, enemies and obstructing forces.
+
+TIBETAN:དགེ་ལེགས་རྟག་པའི་སྣང་བ་འབར་གྱུར་ཅིག།
+HUMAN: And may the light of everlasting virtue and excellence shine!
+
+GPT-FT v1: May the splendour of virtue and excellence blaze forth!
+GPT-FT v2: May the light of virtue blaze like a firebrand.
+
+TIBETAN:ཚིག་མཛེས་དོན་ཟབ་མིན་ཡང་སྙིང་ནས་གསོལ་བ་བཏབ་པ་ལགས་ན་དེ་བཞིན་འགྲུབ་པར་ཤོག་ཅིག
+HUMAN: Although this is not elegant in its language or profound in its meaning, since it represents a heartfelt prayer may it be accomplished just so!
+
+GPT-FT v1: May this prayer be fulfilled just so!
+GPT-FT v2: May we accomplish the profound meaning of the words of the Lord of Speech!
+
+TIBETAN:བླུན་རྒན་མོས་བྲིས།
+HUMAN: Written by a foolish old lady.
+GPT-FT v1: Written by Lama Tārā.
+GPT-FT v2: The first part is devoted to the preliminaries,

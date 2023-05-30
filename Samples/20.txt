@@ -1,0 +1,198 @@
+
+
+TIBETAN:༁ྃ༔འོད་དཔག་མེད་ཀྱི་སྒྲུབ་ཐབས་བདེ་ཆེན་མྱུར་ལམ་བཞུགས་སོ༔
+HUMAN: The Swift Path to Great Bliss, A Sādhana of Amitābha, Buddha of Limitless Light
+
+GPT-FT v1: The Great Bliss of Unchanging Vajra Immortality
+GPT-FT v2: The Swift Path to Great Bliss: A Sādhana of Amitāyus
+
+TIBETAN:འོད་དཔག་མེད་ལ་ཕྱག་འཚལ་ལོ༔
+HUMAN: I prostrate to Amitābha, the Buddha of Limitless Light!
+
+GPT-FT v1: Homage to the Lord of the Family!
+GPT-FT v2: To the Buddha Amitābha, we prostrate.
+
+TIBETAN:འོད་དཔག་མེད་ཀྱི་སྒྲུབ་ཐབས་ནི༔དང་པོ་སྐྱབས་འགྲོ་སེམས་བསྐྱེད་བྱ༔དེ་ནས་བསྒོམ་བཟླས་འདི་ལ་འཇུག༔
+HUMAN: For this sādhana of Amitābha, first take refuge and generate bodhicitta, then practise the following visualization and recitation:
+
+GPT-FT v1: “Recite the mantra of the supreme vehicle, the mantra of the natural state, and visualize the guru in front of you.
+GPT-FT v2: Light the practice fire and recite the refuge and bodhicitta as many times as possible. Then, in order to generate bodhicitta, recite the following:
+
+TIBETAN:ཆོས་རྣམས་ཐམས་ཅད་སྟོང་པའི་ངང༔
+HUMAN: While experiencing the emptiness nature of all phenomena,
+
+GPT-FT v1: All phenomena are empty, beyond all concepts.
+GPT-FT v2: All phenomena are empty, yet they appear as the dharmatā.
+
+TIBETAN:ཀུན་ཁྱབ་བརྩེ་བའི་སྙིང་རྗེ་བསྒོམ༔
+HUMAN: I meditate on all-pervasive loving compassion.
+
+GPT-FT v1: All-pervasive, compassionate and noble.
+GPT-FT v2: And the compassionate essence of all-pervading space,
+
+TIBETAN:སྟོང་ཉིད་སྙིང་རྗེ་དེ་ཡི་ངང་༔
+HUMAN: Within that state of emptiness and compassion
+
+GPT-FT v1: From the state of emptiness, the natural state of compassion,
+GPT-FT v2: Within emptiness, compassion is the essence of compassion,
+
+TIBETAN:སྣང་སྲིད་བདེ་ཆེན་ཞིང་གི་དབུས༔
+HUMAN: All that appears and exists is the pure realm of great bliss. In its centre,
+
+GPT-FT v1: In the sky before me, in the centre of the great blissful realm,
+GPT-FT v2: In the centre of the great blissful realm of great bliss,
+
+TIBETAN:པད་ཟླའི་གདན་ལ་རང་རིག་ཧྲཱིཿ
+HUMAN: Upon a lotus and moon disc seat, my own awareness is the syllable HRĪḤ.
+
+GPT-FT v1: pūja-pūja-pūja hūṃ
+GPT-FT v2: On the seat of the moon is my own awareness, hrīḥ.
+
+TIBETAN:དེ་ལས་འོད་འཕྲོས་དོན་གཉིས་སྒྲུབ༔
+HUMAN: From it light radiates out, accomplishing the twofold benefit―for myself and others.
+
+GPT-FT v1: Then, through the two stages of the path,
+GPT-FT v2: From which light radiates out to accomplish twofold benefit.
+
+TIBETAN:ཡོངས་གྱུར་བདག་ཉིད་བཅོམ་ལྡན་འདས༔
+HUMAN: I am transformed into the Bhagavan, the transcendent accomplished conqueror,
+
+GPT-FT v1: And the teachings of the Great Perfection, the ultimate in meaning,
+GPT-FT v2: The essence of all the buddhas,
+
+TIBETAN:སྣང་བ་མཐའ་ཡས་སྐུ་མདོག་དམར༔
+HUMAN: Amitābha, Buddha of Limitless Light, red in colour,
+
+GPT-FT v1: The appearance of the appearance of the buddhas’ kāyas.
+GPT-FT v2: The red, white and blue body is in the form of Amitābha,
+
+TIBETAN:ཞལ་གཅིག་ཕྱག་གཉིས་མཉམ་བཞག་སྟེང་༔
+HUMAN: With one face and two hands, resting in the mudrā of equanimity,
+
+GPT-FT v1: One is the maṇḍala of the twofold nature, the other is the ground.
+GPT-FT v2: His one face is his equal, his two hands are in equipoise,
+
+TIBETAN:ལྷུང་བཟེད་བདུད་རྩིས་གང་བ་བསྣམས༔
+HUMAN: Holding an almsbowl filled with nectar.
+
+GPT-FT v1: Your speech is like the nectar of ambrosia,
+GPT-FT v2: With the nectar of the gods, you fill the whole of space.
+
+TIBETAN:ཞབས་གཉིས་མི་འགྱུར་སྐྱིལ་ཀྲུང་བཞུགས༔
+HUMAN: His two legs are in the posture of immutability.
+
+GPT-FT v1: He sits cross-legged, and his two legs are crossed in the mudrā of non-referential equanimity.
+GPT-FT v2: His two feet are in the posture of non-duality, and he is seated in the posture of equanimity.
+
+TIBETAN:ཆོས་གོས་རྣམ་གསུམ་སྐུ་ལ་མཛེས༔
+HUMAN: His enlightened body wears the three dharma robes.
+
+GPT-FT v1: And he is adorned with the three kāyas.
+GPT-FT v2: He wears the three Dharma robes and is beautiful in form.
+
+TIBETAN:མཚན་དང་དཔེ་བྱད་ཡོངས་སུ་རྫོགས༔
+HUMAN: With major and minor marks, he is utterly perfect,
+
+GPT-FT v1: And perfect the qualities of the three doors.
+GPT-FT v2: Complete with all the major and minor marks of perfection.
+
+TIBETAN:སངས་རྒྱས་སྐུ་ལྔའི་བདག་ཉིད་མཆོག༔
+HUMAN: Supreme embodiment of the buddhas' five kāyas,
+
+GPT-FT v1: Supreme buddha, the five kāyas and the five wisdoms,
+GPT-FT v2: The embodiment of the five buddha families,
+
+TIBETAN:སྣང་ལ་རང་བཞིན་མེད་པ་ཡི༔
+HUMAN: Appearing yet devoid of inherent nature.
+
+GPT-FT v1: The appearance of things is naturally clear and unobstructed.
+GPT-FT v2: Appear naturally, without effort, and without effortlessness.
+
+TIBETAN:ཐུགས་ཀར་ཟླ་སྟེང་ཧྲཱིཿ་དམར་པོ༔
+HUMAN: At his heart, upon a moon disc, is a red syllable HRĪḤ,
+
+GPT-FT v1: At his heart, upon a moon-disc is a red Hrīḥ,
+GPT-FT v2: At my heart, upon a moon-disc, is a red hrīḥ,
+
+TIBETAN:སྔགས་ཀྱི་གཡས་སུ་བསྐོར་བ་ལས༔
+HUMAN: Encircled by the mantra in a clockwise direction,
+
+GPT-FT v1: In the centre of the mantra-field,
+GPT-FT v2: The first is the mantra, the second is the circle.
+
+TIBETAN:འོད་འཕྲོས་བདེ་གཤེགས་ཐམས་ཅད་ཀྱང་༔
+HUMAN: Radiating light. All the sugatas, just as visualized,
+
+GPT-FT v1: All that is within the sphere of the natural state
+GPT-FT v2: From which light radiates out to invite all the sugatas,
+
+TIBETAN:བསྒོམ་པ་ལྟ་བུར་སྤྱན་དྲངས་བསྟིམ༔
+HUMAN: Are invited and dissolve into the visualization.
+
+GPT-FT v1: Then, you went to the Buddha, and he to you.
+GPT-FT v2: Dissolving into the sky, and inviting the deities of the practice.
+
+TIBETAN:ཛཿཧཱུྂ་བྃ་ཧོ༔
+HUMAN: jaḥ hūṃ baṃ hoḥ
+
+GPT-FT v1: Śrī Siṃha,
+GPT-FT v2: jaḥ hūṃ baṃ hoḥ
+
+TIBETAN:སྔགས་ལས་འོད་འཕྲོས་དོན་གཉིས་བྱས༔
+HUMAN: Light radiates from the mantra, bringing twofold benefit―for self and others.
+
+GPT-FT v1: “Recite the mantra, and then, when you arise, recite:
+GPT-FT v2: From the mantra, light radiates out to accomplish the twofold benefit.
+
+TIBETAN:གཟུགས་སྣང་དག་པ་འོད་དཔག་མེད༔
+HUMAN: All forms that appear are pure as Amitābha;
+
+GPT-FT v1: The appearance of all appearances is the Lord of Death.
+GPT-FT v2: The form of Amitābha, the Lord of Boundless Light,
+
+TIBETAN:སྒྲ་གྲགས་སྙིང་པོ་སྔགས་ཀྱི་སྒྲ༔
+HUMAN: All that resounds is in essence the sound of mantra;
+
+GPT-FT v1: The mantra-mālā was the mantra of the dralas,
+GPT-FT v2: The sound of the mantra-mantra,
+
+TIBETAN:རྟོག་ཚོགས་དག་པ་ཡེ་ཤེས་ལྔ༔
+HUMAN: All thoughts, all concepts are pure as the five wisdoms.
+
+GPT-FT v1: The five poisons of the mind are purified into wisdom,
+GPT-FT v2: The five wisdoms, the five primordial wisdoms,
+
+TIBETAN:བདེ་བ་ཆེན་པོའི་ངང་ནས་བཟླ༔
+HUMAN: In the state of great bliss, I recite the mantra:
+
+GPT-FT v1: In the state of great bliss, the great bliss of union,
+GPT-FT v2: Recite the mantra of great bliss.
+
+TIBETAN:ཨོཾ་ཨ་མི་དྷེ་ཝ་ཨ་ཡུ་སིདྡྷི་ཧཱུྂ་ཧྲཱིཿ
+HUMAN: oṃ amideva ayu siddhi hūṃ hrīḥ
+
+GPT-FT v1: oṃ amaraṇi jīvantaye svāhā
+GPT-FT v2: oṃ amitābha dharmāsya hūṃ hrīḥ
+
+TIBETAN:ཡི་གེ་བཅུ་གཅིག་རྩ་བའི་སྔགས༔བུམ་ཕྲག་གསུམ་གྱིས་དངོས་གྲུབ་འཐོབ༔
+HUMAN: By reciting this eleven-syllable root mantra three hundred thousand times, you will attain accomplishments.
+
+GPT-FT v1: “Recite the hundred-syllable mantra, the mantra of the three roots, and the mantra of the ten powers. Then visualize the three roots and the ten powers as the guru as the deity in the centre.
+GPT-FT v2: With this, the mantra of the essence of the ten bhūmis is recited.
+
+TIBETAN:དེ་ནས་ལྷ་སྣང་མི་དམིགས་བཞག༔རྗེས་སུ་བསྔོ་བས་སྨོན་ལམ་བྱ༔
+HUMAN: Then rest, without visualising the appearance of the deity. Follow this with dedication and aspiration prayers.
+
+GPT-FT v1: “Recite the mantra, and visualize the deity as a mass of golden light.
+GPT-FT v2: Then, rest in non-referential, natural perception. Dedicate the merit and pray that the practice be fulfilled.
+
+TIBETAN:ཚེ་འདིར་དུས་མིན་འཆི་བ་ཞི༔ཕྱི་མ་བདེ་ཆེན་ཐར་ལམ་ཟིན༔དེ་ཕྱིར་སྐལ་ལྡན་ཉམས་སུ་ལོངས༔ས་མ་ཡ༔
+HUMAN: This practice will dispel untimely death in this life and lead you in future along the path of great bliss and liberation. So, fortunate ones, take it to heart. Samaya.
+
+GPT-FT v1: “In the future, when the time comes for me to pass from this life, I shall not be able to see you face to face, but you will appear in my dreams, and you will tell me these things:
+GPT-FT v2: This life is short and the time for happiness is limited. If you are fortunate, you will be able to take the path of the intermediate state, and will be able to experience the great bliss of the transference of the kāyas and wisdoms.
+
+TIBETAN:ལས་རབ་གླིང་པའི་གཏེར་མ་ཤོག་སེར་ལས་རྒྱལ་དབང་ཐུབ་བསྟན་རྒྱ་མཚོས་ཕབ་པའོ༔
+HUMAN: This was deciphered from the yellow scrolls of Lerab Lingpa's treasure text by Gyalwang Thubten Gyatso.
+GPT-FT v1: “Recite this prayer, the prayer of the treasure of the secret mantra, as many times as you can. Then, recite the following:
+GPT-FT v2: This was written by Tsultrim Zangpo at the request of his servant, Lekpa.

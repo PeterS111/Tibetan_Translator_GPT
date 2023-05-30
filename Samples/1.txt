@@ -1,0 +1,48 @@
+
+
+TIBETAN:༄༅།།འབྲུག་པ་ཀུན་ལེགས་ལ་གསོལ་བ་འདེབས་པ།
+HUMAN: Prayer to Drukpa Kunley
+
+GPT-FT v1: Prayer to Khandro Palgyi Nyima
+GPT-FT v2: Prayer to Kukkurāja
+
+TIBETAN:དུས་གསུམ་རྒྱལ་བའི་ཡེ་ཤེས་རྫུ་འཕྲུལ་གར།།
+HUMAN: Magical dance of the wisdom of the victorious ones of the three times,
+
+GPT-FT v1: The wisdom of the buddhas of past, present and future, the magical display of the wisdom of the three kāyas,
+GPT-FT v2: The wisdom of the buddhas of past, present and future,
+
+TIBETAN:གདུལ་བྱའི་མགོན་དུ་ཤྲཱི་ཧེ་རུ་ཀའི།།
+HUMAN: Manifesting in the form of a Śrī Heruka,
+
+GPT-FT v1: In the form of the lord of the maṇḍala, Hayagrīva,
+GPT-FT v2: Śrī Siṃha, protector of the teachings of the Land of Snows,
+
+TIBETAN:རྣམ་པར་རོལ་པ་གྲུབ་པའི་སྤྱི་མེས་མཆོག།
+HUMAN: Protector of beings to be trained and supreme progenitor of siddhas—
+
+GPT-FT v1: Supremely accomplished, you are the supreme lord of siddhas—
+GPT-FT v2: The supreme display of the play of union and separation.
+
+TIBETAN:ཀུན་དགའ་ལེགས་པའི་ཞབས་ལ་གསོལ་བ་འདེབས།།
+HUMAN: Kunga Lekpa, at your feet I pray:
+
+GPT-FT v1: Khyentse Wangpo, at your feet I pray!
+GPT-FT v2: Kunga Zangpo,
+
+TIBETAN:གཟུང་འཛིན་སྣང་བ་ཆོས་ཉིད་ཀློང་གྲོལ་ནས།།
+HUMAN: Inspire me to liberate dualistic perception into the dharmatā expanse
+
+GPT-FT v1: And the illusory nature of appearance and existence is liberated into the expanse of dharmatā—
+GPT-FT v2: May I be liberated from the illusion of dualistic perception,
+
+TIBETAN:བླ་མ་ཁྱེད་དང་དབྱེར་མེད་བྱིན་གྱིས་རློབས།།
+HUMAN: And remain inseparable from you, the guru.
+
+GPT-FT v1: And to you I offer homage and praise.
+GPT-FT v2: Guru, you’re one and the same as my own guru.
+
+TIBETAN:ཐུབ་བསྟན་ཆོས་འཛིན་གྱི་བཞེད་ངོར་འཁྲུལ་ཞིག་བརྒྱད་མིང་པས་བྲིས།།
+HUMAN: The one who holds the name of eighth Trulshik wrote this at the request of Tupten Chödzin.
+GPT-FT v1: Composed by Chökyi Lodrö in response to a request from the monk Ngawang Chökyi.
+GPT-FT v2: And the eight great masters of the Dharma,

@@ -1,0 +1,114 @@
+
+
+TIBETAN:༄༅།།རྣལ་འབྱོར་དབང་ཕྱུག་ལ་བསྟོད་པ་དགྱེས་མཛད་དཔའ་བོའི་གད་རྒྱངས་ཞེས་བྱ་བ་བཞུགས་སོ།།
+HUMAN: The Hero's Bellowing Laughter, In Praise of the Lord of Yogins
+
+GPT-FT v1: The Wish-Fulfilling Jewel: A Prayer to the Lineage of the Yoga of the Ultimate Liberation of All Beings
+GPT-FT v2: The Fulfilment of the Warrior’s Needs, A Praise to the Lord of the Dance
+
+TIBETAN:ན་མོ་གུ་རུ་བི་རུ་པ་ད་ཡ།།
+HUMAN: Namo guru virūpa-pādāya!
+
+GPT-FT v1: Namo guru vajradharāya!
+GPT-FT v2: Namo guru bhagavate tārāya!
+
+TIBETAN:སྲོག་རྩོལ་དྷཱུ་ཏིའི་དབྱིངས་སུ་འཆིང་བ་ལས།།
+HUMAN: Through binding wind-energy within the space of dhūti,
+
+GPT-FT v1: In the space of the dharmadhātu, the basic space of the natural state,
+GPT-FT v2: From the space of the life-force of the dharmadhātu, the pure space of the death-breath,
+
+TIBETAN:འཕོ་མེད་བདེ་ཆེན་ཕྱག་རྒྱའི་སྐུར་བཞེངས་པ།།
+HUMAN: You arose in the form of the mudrā of changeless great bliss.
+
+GPT-FT v1: May I be reborn in the great blissful realm of Sukhāvatī,
+GPT-FT v2: And you attained the level of the unchanging great bliss—
+
+TIBETAN:རྡོ་རྗེ་ཉི་མ་ཧེ་རུ་ཀ་དཔལ་ནི།།
+HUMAN: You are the glorious heruka Vajra Sun,
+
+GPT-FT v1: Vajra-heruka, glorious Vajra-mahā-sukha,
+GPT-FT v2: Vajra Heruka, glorious sun-like,
+
+TIBETAN:རྣལ་འབྱོར་དབང་ཕྱུག་འབར་བའི་སྐུར་སྟོན་པ།།
+HUMAN: Displaying the form of a resplendent Lord of Yogins.
+
+GPT-FT v1: You were the crowning glory of the yogis of the past,
+GPT-FT v2: You display the form of a lord of yogis, blazing with power and strength,
+
+TIBETAN:འཁོར་འདས་ཆོས་ཀུན་འཁོར་ལོ་སྡོམ་པའི་དབྱིངས།།
+HUMAN: With all the phenomena of saṃsāra and nirvāṇa in the space of Cakrasaṃvara,
+
+GPT-FT v1: In the dharmadhātu expanse of all-pervasive awareness, emptiness and rigpa,
+GPT-FT v2: The space of saṃsāra and nirvāṇa, the space of the Wheel of Dharma,
+
+TIBETAN:ནང་གི་ས་མཆོག་གཙུག་གཏོར་རྩེ་མོར་བགྲོད།།
+HUMAN: You reached the peak of the jewelled crest, the supreme inner stage,
+
+GPT-FT v1: He wears a supremely beautiful silk robe and is adorned with jewels.
+GPT-FT v2: You reached the summit of the supreme vehicle, the pinnacle of the lotus,
+
+TIBETAN:ཧེ་རུ་ཀ་དཔལ་དགྱེས་མཛད་རྡོ་རྗེའི་སྐུ།།
+HUMAN: The supreme heruka, the vajra form of Hevajra.
+
+GPT-FT v1: Hūṃ! In the form of the glorious Vajrakumāra,
+GPT-FT v2: The glorious heruka, who delighted in the vajra body,
+
+TIBETAN:འབར་གཡོ་རྗེས་ཆགས་གར་བརྒྱས་རོལ་བ་ཡི།།
+HUMAN: Through a hundred moods of passionate blaze and movement,
+
+GPT-FT v1: The eight chariots of the wrathful Vajrakumāra,
+GPT-FT v2: And the eight charnel grounds blaze with the play of the desire-based play of the play of the play,
+
+TIBETAN:ས་གསུམ་ཁྱབ་མཛད་ཧ་ཧའི་གད་རྒྱངས་སྒྲོགས།།
+HUMAN: You pervade the three realms, bellowing with laughter: 'Ha! Ha!'
+
+GPT-FT v1: The three syllables of the mantra are the sovereign of all the buddhas,
+GPT-FT v2: The sound of the three syllables pervading the whole of space and time,
+
+TIBETAN:བདེ་དང་སྟོང་པ་མི་ཕྱེད་འོད་གསལ་ཐུགས།།
+HUMAN: Your mind of clear light in which bliss and emptiness are indivisible,
+
+GPT-FT v1: Vajra speech, emptiness and wisdom, clear light,
+GPT-FT v2: And the wisdom mind of the bliss-and-emptiness union,
+
+TIBETAN:སྒྲིབ་བྲལ་ཤིན་ཏུ་རྣམ་པར་དག་པ་ནི།།
+HUMAN: Is free from obscuration and exceedingly pure;
+
+GPT-FT v1: And the pure realms of the six classes of vidyādharas,
+GPT-FT v2: May the obscurations of the mind of the deceased be purified,
+
+TIBETAN:དངོས་རྣམས་མ་ལུས་ཀུན་ལ་ཡོངས་སུ་ཁྱབ།།
+HUMAN: It extends everywhere, encompasses every entity.
+
+GPT-FT v1: All the teachings of the buddhas and their bodhisattva heirs are widely known,
+GPT-FT v2: And all the deities of the three families are present in their entirety.
+
+TIBETAN:བདེ་མཆོག་རྡོ་རྗེ་སེམས་དཔའི་དཔལ་ཡོན་ནི།།
+HUMAN: With your glorious qualities of the vajra being of Supreme Bliss,
+
+GPT-FT v1: The supreme and supremely glorious Vajrasattva,
+GPT-FT v2: The glorious Vajrasattva, the glorious Vajrasattva,
+
+TIBETAN:མཁའ་དང་མཉམ་པའི་ཕྲིན་ལས་རྟག་འཕྲོ་བ།།
+HUMAN: Your activity, as vast as space, extends forever.
+
+GPT-FT v1: And the activity of the ḍākinīs of the sky,
+GPT-FT v2: And, through the activity of the ḍākinīs and the equal of the Lord of Death,
+
+TIBETAN:རྣལ་འབྱོར་དབང་ཕྱུག་ཆེན་པོར་གསོལ་བ་འདེབས།།
+HUMAN: Great lord of yogins, to you I pray!
+
+GPT-FT v1: Great yogin, to you I pray.
+GPT-FT v2: Great lord of yogis, to you I pray.
+
+TIBETAN:འཇིགས་མེད་ཧེ་རུ་ཀ་དཔལ་མཆོག་ཐོབ་ཤོག།
+HUMAN: May I attain the supreme splendour of the fearless heruka!
+
+GPT-FT v1: And may I attain the supreme and unsurpassed youthful vase body.
+GPT-FT v2: And may we attain the supreme, unsurpassable heruka!
+
+TIBETAN:ཅེས་པའང་འཇིགས་བྲལ་དཔའ་བོས་སྨྲས་པ་ཡི་གེའི་གཟུགས་སུ་སྤེལ་བ་པོ་ཨཀྵ་ར་མངྒས་སོ།།།།
+HUMAN: Thus, Jigdral Pawo spoke this words and Akṣara Maṅgala
+GPT-FT v1: This was composed by the one called Pema in response to a request from the one called Jigme. May it be virtuous!
+GPT-FT v2: This was composed by the one called Aparākṣa in response to a request from the one called Jigme.
