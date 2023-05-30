@@ -1,6 +1,6 @@
 # Tibetan Translator GPT
 
-version: 2023.05.26
+version: 2023.05.30
 
 author: PeterS
 
@@ -8,17 +8,17 @@ This repository is dedicated to the development of a Tibetan translation machine
 
 ### Samples
 
-In the samples folder, you can find results of translations from Tibetan to English from consecutive versions of our system. In the samples, each line of Tibetan text is followed by the original translation on https://www.lotsawahouse.org/ followed by translations provided by two versions of our system.
+In the samples folder, you can find results of translations (25 + 1) from Tibetan to English from consecutive versions of our system. In the samples, each line of Tibetan text is followed by the original translation on https://www.lotsawahouse.org/ followed by translations provided by two versions of our system.
 
 * version 1 - GPT-3 Babbage fine-tuned for 4 epochs on the dataset tib_small.jsonl, which contains 19794 language pairs
 
-* version 2 - GPT-3 Babbage fine-tuned for 4 epochs on the dataset tib_long.jsonl, which contains 53158 language pairs
+* version 2 - GPT-3 Babbage fine-tuned for 4 epochs on the dataset tib_long_train.jsonl, which contains 53158 language pairs
 
-Samples are presented both as .txt and .html files.
+Samples are presented both as .txt and .html files. The text that were translated were removed from the training dataset.
 
 ### Datasets
 
-The datasets folder contains datasets of Tibetan-English text as scraped from https://www.lotsawahouse.org/ with some edits by PeterS. There are two datasets: tib_small and tib_long. Both are uploaded in the original .txt version and converted into .jsonl format for GPT-3 fine-tuning.
+The datasets folder contains datasets of Tibetan-English text as scraped from https://www.lotsawahouse.org/ with some edits by PeterS. There are two datasets: tib_small and tib_long. Both are uploaded in the original .txt version and converted into .jsonl format for GPT-3 fine-tuning. There is an additional tib_long_train.json, from which the 25 texts used for validation were removed.
 
 ### Updates
 
