@@ -12,7 +12,7 @@ In the samples folder, you can find results of translations from Tibetan to Engl
 
 * version 1 - GPT-3 Babbage fine-tuned for 4 epochs on the dataset tib_small.jsonl, which contains 19794 language pairs
 
-* version 2 - GPT-3 Babbage fine-tuned for 4 epochs on the dataset tib_long.jsonl, which contains 54030 language pairs
+* version 2 - GPT-3 Babbage fine-tuned for 4 epochs on the dataset tib_long.jsonl, which contains 53158 language pairs
 
 Samples are presented both as .txt and .html files.
 
