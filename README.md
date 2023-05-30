@@ -10,9 +10,9 @@ This repository is dedicated to the development of a Tibetan translation machine
 
 In the samples folder, you can find results of translations from Tibetan to English from consecutive versions of our system. In the samples, each line of Tibetan text is followed by the original translation on https://www.lotsawahouse.org/ followed by translations provided by two versions of our system.
 
-* version 1 - GPT-3 Babbage fine-tuned for 4 epochs on the dataset tib_small.jsonl, which contains 19844 language pairs
+* version 1 - GPT-3 Babbage fine-tuned for 4 epochs on the dataset tib_small.jsonl, which contains 19794 language pairs
 
-* version 2 - GPT-3 Babbage fine-tuned for 4 epochs on the dataset tib_long.jsonl, which contains 54080 language pairs
+* version 2 - GPT-3 Babbage fine-tuned for 4 epochs on the dataset tib_long.jsonl, which contains 54030 language pairs
 
 Samples are presented both as .txt and .html files.
 
